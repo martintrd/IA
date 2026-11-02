@@ -11,19 +11,25 @@ tags: [ia, carnet]
 
 ## A00.01 · Créer un dossier de travail et un dépôt Git
 
-- [ ] A00.01 Créer un dossier de travail et un dépôt Git
+- [x] A00.01 Créer un dossier de travail et un dépôt Git
 
 > [!tip] Piste
 > `git init` et un compte GitHub pour publier tes projets au fil du parcours.
 
 **Mes notes :**
 
+git init
+git add .
+git commit -m "premier commit"
+git remote add origin https://github.com/martintrd/IA.git
+git branch -M main
+git push -u origin main
 
 ---
 
 ## A00.02 · Installer Python et un gestionnaire d'environnements
 
-- [ ] A00.02 Installer Python et un gestionnaire d'environnements
+- [x] A00.02 Installer Python et un gestionnaire d'environnements
 
 > [!tip] Piste
 > Python 3 récent, puis `uv` ou `venv` : un environnement par projet.
@@ -35,7 +41,7 @@ tags: [ia, carnet]
 
 ## A00.03 · Installer VS Code et ses extensions Python et Jupyter
 
-- [ ] A00.03 Installer VS Code et ses extensions Python et Jupyter
+- [x] A00.03 Installer VS Code et ses extensions Python et Jupyter
 
 > [!tip] Piste
 > Tu alterneras entre notebooks pour explorer et scripts pour construire.
@@ -47,7 +53,7 @@ tags: [ia, carnet]
 
 ## A00.04 · Créer un compte Google Colab et un compte Kaggle
 
-- [ ] A00.04 Créer un compte Google Colab et un compte Kaggle
+- [x] A00.04 Créer un compte Google Colab et un compte Kaggle
 
 > [!tip] Piste
 > Des GPU gratuits pour l'entraînement, et des jeux de données pour pratiquer.
@@ -59,7 +65,7 @@ tags: [ia, carnet]
 
 ## A00.05 · Créer un compte Hugging Face
 
-- [ ] A00.05 Créer un compte Hugging Face
+- [x] A00.05 Créer un compte Hugging Face
 
 > [!tip] Piste
 > Le hub central des modèles, jeux de données et démos open source.
@@ -78,12 +84,13 @@ tags: [ia, carnet]
 
 **Mes notes :**
 
+Plus tard
 
 ---
 
 ## A00.07 · Mettre en place ta veille dans Obsidian
 
-- [ ] A00.07 Mettre en place ta veille dans Obsidian
+- [x] A00.07 Mettre en place ta veille dans Obsidian
 
 > [!tip] Piste
 > Une note par article lu, reliée aux notions du [[Glossaire]].

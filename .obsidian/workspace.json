@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modules/A00 Préparer son environnement.md",
+                "file": "Modules/A01 Culture générale de l'IA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A00 Préparer son environnement"
+              "title": "A01 Culture générale de l'IA"
             }
           }
         ]
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b4190aaf6ce741b1",
@@ -188,11 +187,17 @@
   },
   "active": "54849cff2f4b3ab8",
   "lastOpenFiles": [
+    "Pasted image 20261102024504.png",
+    "Pasted image 20261102024450.png",
+    "Modules/A18 Veille, projets et carrière.md",
+    "00 Accueil.md",
+    "Modèle de projet.md",
     "README.md",
-    "Modules/A02 Utiliser les assistants IA au quotidien.md",
     "Modules/A01 Culture générale de l'IA.md",
     "Modules/A00 Préparer son environnement.md",
-    "00 Accueil.md",
+    "Glossaire.md",
+    "Veille IA.md",
+    "Modules/A02 Utiliser les assistants IA au quotidien.md",
     "sedDSqci6"
   ]
 }

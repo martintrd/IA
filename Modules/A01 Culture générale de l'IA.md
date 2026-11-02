@@ -17,7 +17,12 @@ tags: [ia, carnet]
 > Quatre cercles imbriqués. Fais le schéma dans ton carnet.
 
 **Mes notes :**
-
+![[Pasted image 20261102024504.png]]
+Intelligence artificielle : 
+Apprentissage automatique : 
+Réseaux de neuronnes : 
+Deep learning : 
+Grands modèles de langage : LLMs
 
 ---
 
