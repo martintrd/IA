@@ -1,118 +1,118 @@
 ---
 module: A13
-tags: [ia, carnet]
+tags: [ai, notebook]
 ---
 
-# A13 · IA locale et open source
+# A13 · Local and Open Source AI
 
-> Faire tourner des modèles sur ta propre machine.
+> Run models on your own machine.
 
-[[00 Accueil|← Retour à l'accueil]] · [[Glossaire]] · [[Ressources]]
+[[00 Home|← Back to home]] · [[Glossary]] · [[Resources]]
 
-## A13.01 · Installer Ollama ou LM Studio
+## A13.01 · Install Ollama or LM Studio
 
-- [ ] A13.01 Installer Ollama ou LM Studio
+- [ ] A13.01 Install Ollama or LM Studio
 
-> [!tip] Piste
-> Télécharge et lance un petit modèle ouvert en local.
+> [!tip] Hint
+> Download and run a small open model locally.
 
-**Mes notes :**
-
-
----
-
-## A13.02 · Comprendre les besoins matériels
-
-- [ ] A13.02 Comprendre les besoins matériels
-
-> [!tip] Piste
-> Mémoire vidéo, RAM, et la taille d'un modèle selon son nombre de paramètres.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A13.03 · Comprendre la quantification
+## A13.02 · Understand the hardware requirements
 
-- [ ] A13.03 Comprendre la quantification
+- [ ] A13.02 Understand the hardware requirements
 
-> [!tip] Piste
-> Réduire la précision des poids (8 bits, 4 bits) pour faire tenir un modèle dans moins de mémoire.
+> [!tip] Hint
+> Video memory, RAM, and how a model's size depends on its number of parameters.
 
-**Mes notes :**
-
-
----
-
-## A13.04 · Comparer un modèle local et un modèle en ligne
-
-- [ ] A13.04 Comparer un modèle local et un modèle en ligne
-
-> [!tip] Piste
-> Même jeu de tests : qualité, vitesse, confidentialité.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A13.05 · Lire une fiche de modèle sur Hugging Face
+## A13.03 · Understand quantization
 
-- [ ] A13.05 Lire une fiche de modèle sur Hugging Face
+- [ ] A13.03 Understand quantization
 
-> [!tip] Piste
-> Licence, données d'entraînement, limites, usage prévu.
+> [!tip] Hint
+> Reduce the precision of the weights (8-bit, 4-bit) to fit a model in less memory.
 
-**Mes notes :**
-
-
----
-
-## A13.06 · Comprendre les licences des modèles ouverts
-
-- [ ] A13.06 Comprendre les licences des modèles ouverts
-
-> [!tip] Piste
-> Ce qui est autorisé en usage commercial, et ce qui ne l'est pas.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A13.07 · Faire un fine-tuning LoRA
+## A13.04 · Compare a local model and an online model
 
-- [ ] A13.07 Faire un fine-tuning LoRA
+- [ ] A13.04 Compare a local model and an online model
 
-> [!tip] Piste
-> Adapter un petit modèle à une tâche précise sur Colab, avec PEFT ou Unsloth.
+> [!tip] Hint
+> Same test set: quality, speed, privacy.
 
-**Mes notes :**
-
-
----
-
-## A13.08 · Savoir quand fine-tuner et quand ne pas le faire
-
-- [ ] A13.08 Savoir quand fine-tuner et quand ne pas le faire
-
-> [!tip] Piste
-> Prompt, RAG ou fine-tuning : choisir selon le problème.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A13.09 · Brancher ton RAG sur un modèle local
+## A13.05 · Read a model card on Hugging Face
 
-- [ ] A13.09 Brancher ton RAG sur un modèle local
+- [ ] A13.05 Read a model card on Hugging Face
 
-> [!tip] Piste
-> Une chaîne entièrement hors ligne, utile pour des données sensibles.
+> [!tip] Hint
+> License, training data, limitations, intended use.
 
-**Mes notes :**
+**My notes:**
+
+
+---
+
+## A13.06 · Understand open model licenses
+
+- [ ] A13.06 Understand open model licenses
+
+> [!tip] Hint
+> What is allowed for commercial use, and what isn't.
+
+**My notes:**
+
+
+---
+
+## A13.07 · Do a LoRA fine-tuning
+
+- [ ] A13.07 Do a LoRA fine-tuning
+
+> [!tip] Hint
+> Adapt a small model to a specific task on Colab, with PEFT or Unsloth.
+
+**My notes:**
+
+
+---
+
+## A13.08 · Know when to fine-tune and when not to
+
+- [ ] A13.08 Know when to fine-tune and when not to
+
+> [!tip] Hint
+> Prompt, RAG or fine-tuning: choose based on the problem.
+
+**My notes:**
+
+
+---
+
+## A13.09 · Connect your RAG to a local model
+
+- [ ] A13.09 Connect your RAG to a local model
+
+> [!tip] Hint
+> A fully offline pipeline, useful for sensitive data.
+
+**My notes:**
 
 
 ---

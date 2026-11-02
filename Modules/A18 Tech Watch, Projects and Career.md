@@ -1,130 +1,130 @@
 ---
 module: A18
-tags: [ia, carnet]
+tags: [ai, notebook]
 ---
 
-# A18 · Veille, projets et carrière
+# A18 · Tech Watch, Projects and Career
 
-> Rester à jour et le prouver.
+> Stay up to date and prove it.
 
-[[00 Accueil|← Retour à l'accueil]] · [[Glossaire]] · [[Ressources]]
+[[00 Home|← Back to home]] · [[Glossary]] · [[Resources]]
 
-## A18.01 · Mettre en place une veille hebdomadaire
+## A18.01 · Set up a weekly tech watch
 
-- [ ] A18.01 Mettre en place une veille hebdomadaire
+- [ ] A18.01 Set up a weekly tech watch
 
-> [!tip] Piste
-> Une ou deux newsletters, quelques chercheurs, les blogs des laboratoires. Une heure par semaine.
+> [!tip] Hint
+> One or two newsletters, a few researchers, the labs' blogs. One hour a week.
 
-**Mes notes :**
-
-
----
-
-## A18.02 · Apprendre à lire un article de recherche
-
-- [ ] A18.02 Apprendre à lire un article de recherche
-
-> [!tip] Piste
-> Résumé, figures, conclusion d'abord. arXiv et Papers with Code.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A18.03 · Résumer un article par mois
+## A18.02 · Learn how to read a research paper
 
-- [ ] A18.03 Résumer un article par mois
+- [ ] A18.02 Learn how to read a research paper
 
-> [!tip] Piste
-> Une note Obsidian par article, avec tes propres mots.
+> [!tip] Hint
+> Abstract, figures and conclusion first. arXiv and Papers with Code.
 
-**Mes notes :**
-
-
----
-
-## A18.04 · Participer à une compétition Kaggle
-
-- [ ] A18.04 Participer à une compétition Kaggle
-
-> [!tip] Piste
-> Même modestement : tu apprendras énormément en lisant les solutions des autres.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A18.05 · Contribuer à un projet open source
+## A18.03 · Summarize one paper a month
 
-- [ ] A18.05 Contribuer à un projet open source
+- [ ] A18.03 Summarize one paper a month
 
-> [!tip] Piste
-> Documentation, correction d'un bug, exemple d'usage.
+> [!tip] Hint
+> One Obsidian note per paper, in your own words.
 
-**Mes notes :**
-
-
----
-
-## A18.06 · Publier tes projets sur GitHub
-
-- [ ] A18.06 Publier tes projets sur GitHub
-
-> [!tip] Piste
-> README clair, démo, résultats mesurés.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A18.07 · Écrire un article sur un de tes projets
+## A18.04 · Enter a Kaggle competition
 
-- [ ] A18.07 Écrire un article sur un de tes projets
+- [ ] A18.04 Enter a Kaggle competition
 
-> [!tip] Piste
-> LinkedIn ou blog : expliquer t'oblige à comprendre.
+> [!tip] Hint
+> Even modestly: you'll learn a huge amount by reading other people's solutions.
 
-**Mes notes :**
-
-
----
-
-## A18.08 · Identifier ton positionnement
-
-- [ ] A18.08 Identifier ton positionnement
-
-> [!tip] Piste
-> Sécurité de l'IA, IA pour la cybersécurité, ingénieur LLM, data scientist : choisis une direction.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A18.09 · Passer une certification si utile
+## A18.05 · Contribute to an open source project
 
-- [ ] A18.09 Passer une certification si utile
+- [ ] A18.05 Contribute to an open source project
 
-> [!tip] Piste
-> Certifications cloud orientées IA ou cours spécialisés, selon le poste visé.
+> [!tip] Hint
+> Documentation, a bug fix, a usage example.
 
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A18.10 · Projet final : un assistant SOC complet
+## A18.06 · Publish your projects on GitHub
 
-- [ ] A18.10 Projet final : un assistant SOC complet
+- [ ] A18.06 Publish your projects on GitHub
 
-> [!tip] Piste
-> Combine RAG, agent, outils MCP, évaluation continue, garde-fous et déploiement. C'est ta vitrine.
+> [!tip] Hint
+> Clear README, demo, measured results.
 
-**Mes notes :**
+**My notes:**
+
+
+---
+
+## A18.07 · Write an article about one of your projects
+
+- [ ] A18.07 Write an article about one of your projects
+
+> [!tip] Hint
+> LinkedIn or a blog: explaining forces you to understand.
+
+**My notes:**
+
+
+---
+
+## A18.08 · Identify your positioning
+
+- [ ] A18.08 Identify your positioning
+
+> [!tip] Hint
+> AI security, AI for cybersecurity, LLM engineer, data scientist: pick a direction.
+
+**My notes:**
+
+
+---
+
+## A18.09 · Earn a certification if it's useful
+
+- [ ] A18.09 Earn a certification if it's useful
+
+> [!tip] Hint
+> AI-focused cloud certifications or specialized courses, depending on the target job.
+
+**My notes:**
+
+
+---
+
+## A18.10 · Final project: a complete SOC assistant
+
+- [ ] A18.10 Final project: a complete SOC assistant
+
+> [!tip] Hint
+> Combines RAG, agent, MCP tools, continuous evaluation, guardrails and deployment. This is your showcase.
+
+**My notes:**
 
 
 ---

@@ -1,106 +1,106 @@
 ---
 module: A14
-tags: [ia, carnet]
+tags: [ai, notebook]
 ---
 
-# A14 · IA multimodale et générative
+# A14 · Multimodal and Generative AI
 
-> Images, son, vidéo et vision.
+> Images, audio, video and vision.
 
-[[00 Accueil|← Retour à l'accueil]] · [[Glossaire]] · [[Ressources]]
+[[00 Home|← Back to home]] · [[Glossary]] · [[Resources]]
 
-## A14.01 · Comprendre les modèles de diffusion
+## A14.01 · Understand diffusion models
 
-- [ ] A14.01 Comprendre les modèles de diffusion
+- [ ] A14.01 Understand diffusion models
 
-> [!tip] Piste
-> Partir du bruit et le débruiter progressivement vers une image.
+> [!tip] Hint
+> Start from noise and gradually denoise it into an image.
 
-**Mes notes :**
-
-
----
-
-## A14.02 · Générer des images et écrire de bons prompts visuels
-
-- [ ] A14.02 Générer des images et écrire de bons prompts visuels
-
-> [!tip] Piste
-> Sujet, style, composition, lumière. Compare plusieurs générateurs.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A14.03 · Installer Stable Diffusion en local avec ComfyUI
+## A14.02 · Generate images and write good visual prompts
 
-- [ ] A14.03 Installer Stable Diffusion en local avec ComfyUI
+- [ ] A14.02 Generate images and write good visual prompts
 
-> [!tip] Piste
-> Comprendre les nœuds d'un pipeline de génération.
+> [!tip] Hint
+> Subject, style, composition, lighting. Compare several generators.
 
-**Mes notes :**
-
-
----
-
-## A14.04 · Comprendre CLIP et les modèles vision-langage
-
-- [ ] A14.04 Comprendre CLIP et les modèles vision-langage
-
-> [!tip] Piste
-> Comment un modèle relie une image et un texte.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A14.05 · Faire de la reconnaissance vocale avec Whisper
+## A14.03 · Install Stable Diffusion locally with ComfyUI
 
-- [ ] A14.05 Faire de la reconnaissance vocale avec Whisper
+- [ ] A14.03 Install Stable Diffusion locally with ComfyUI
 
-> [!tip] Piste
-> Transcrire un enregistrement, en local.
+> [!tip] Hint
+> Understand the nodes of a generation pipeline.
 
-**Mes notes :**
-
-
----
-
-## A14.06 · Tester la synthèse vocale
-
-- [ ] A14.06 Tester la synthèse vocale
-
-> [!tip] Piste
-> Générer une voix à partir d'un texte, et connaître les règles sur le clonage de voix.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A14.07 · Découvrir la génération vidéo
+## A14.04 · Understand CLIP and vision-language models
 
-- [ ] A14.07 Découvrir la génération vidéo
+- [ ] A14.04 Understand CLIP and vision-language models
 
-> [!tip] Piste
-> Ce qui est possible aujourd'hui et ses limites.
+> [!tip] Hint
+> How a model connects an image and a text.
 
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A14.08 · Repérer un contenu généré
+## A14.05 · Do speech recognition with Whisper
 
-- [ ] A14.08 Repérer un contenu généré
+- [ ] A14.05 Do speech recognition with Whisper
 
-> [!tip] Piste
-> Indices visuels, métadonnées, standard C2PA de provenance des contenus.
+> [!tip] Hint
+> Transcribe a recording, locally.
 
-**Mes notes :**
+**My notes:**
+
+
+---
+
+## A14.06 · Try speech synthesis
+
+- [ ] A14.06 Try speech synthesis
+
+> [!tip] Hint
+> Generate a voice from text, and know the rules on voice cloning.
+
+**My notes:**
+
+
+---
+
+## A14.07 · Discover video generation
+
+- [ ] A14.07 Discover video generation
+
+> [!tip] Hint
+> What is possible today and its limits.
+
+**My notes:**
+
+
+---
+
+## A14.08 · Spot generated content
+
+- [ ] A14.08 Spot generated content
+
+> [!tip] Hint
+> Visual clues, metadata, the C2PA content provenance standard.
+
+**My notes:**
 
 
 ---

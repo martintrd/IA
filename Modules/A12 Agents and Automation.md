@@ -1,142 +1,142 @@
 ---
 module: A12
-tags: [ia, carnet]
+tags: [ai, notebook]
 ---
 
-# A12 · Agents et automatisation
+# A12 · Agents and Automation
 
-> Des modèles qui agissent, pas seulement qui répondent.
+> Models that act, not just models that answer.
 
-[[00 Accueil|← Retour à l'accueil]] · [[Glossaire]] · [[Ressources]]
+[[00 Home|← Back to home]] · [[Glossary]] · [[Resources]]
 
-## A12.01 · Comprendre ce qu'est un agent
+## A12.01 · Understand what an agent is
 
-- [ ] A12.01 Comprendre ce qu'est un agent
+- [ ] A12.01 Understand what an agent is
 
-> [!tip] Piste
-> Une boucle : le modèle réfléchit, appelle un outil, observe le résultat, recommence.
+> [!tip] Hint
+> A loop: the model thinks, calls a tool, observes the result, starts again.
 
-**Mes notes :**
-
-
----
-
-## A12.02 · Distinguer workflow et agent
-
-- [ ] A12.02 Distinguer workflow et agent
-
-> [!tip] Piste
-> Un enchaînement fixé à l'avance ou un modèle qui décide lui-même des étapes. Lis « Building effective agents » d'Anthropic.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A12.03 · Coder une boucle d'agent sans framework
+## A12.02 · Tell apart workflow and agent
 
-- [ ] A12.03 Coder une boucle d'agent sans framework
+- [ ] A12.02 Tell apart workflow and agent
 
-> [!tip] Piste
-> Une centaine de lignes de Python avec deux ou trois outils.
+> [!tip] Hint
+> A sequence fixed in advance, or a model that decides the steps itself. Read Anthropic's "Building effective agents".
 
-**Mes notes :**
-
-
----
-
-## A12.04 · Comprendre le Model Context Protocol (MCP)
-
-- [ ] A12.04 Comprendre le Model Context Protocol (MCP)
-
-> [!tip] Piste
-> Le standard ouvert pour connecter des modèles à des outils et des sources de données.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A12.05 · Créer ton propre serveur MCP
+## A12.03 · Code an agent loop without a framework
 
-- [ ] A12.05 Créer ton propre serveur MCP
+- [ ] A12.03 Code an agent loop without a framework
 
-> [!tip] Piste
-> Exposer un outil simple (lecture de fichiers de logs, par exemple) via le SDK officiel.
+> [!tip] Hint
+> A hundred or so lines of Python with two or three tools.
 
-**Mes notes :**
-
-
----
-
-## A12.06 · Utiliser un agent de code
-
-- [ ] A12.06 Utiliser un agent de code
-
-> [!tip] Piste
-> Faire réaliser une fonctionnalité complète par un agent, puis relire chaque modification.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A12.07 · Construire un workflow avec n8n ou Make
+## A12.04 · Understand the Model Context Protocol (MCP)
 
-- [ ] A12.07 Construire un workflow avec n8n ou Make
+- [ ] A12.04 Understand the Model Context Protocol (MCP)
 
-> [!tip] Piste
-> Automatisation visuelle : un e-mail arrive, l'IA le classe, une action se déclenche.
+> [!tip] Hint
+> The open standard for connecting models to tools and data sources.
 
-**Mes notes :**
-
-
----
-
-## A12.08 · Gérer la mémoire d'un agent
-
-- [ ] A12.08 Gérer la mémoire d'un agent
-
-> [!tip] Piste
-> Mémoire courte (contexte) et mémoire longue (fichiers, base de données).
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A12.09 · Encadrer un agent
+## A12.05 · Create your own MCP server
 
-- [ ] A12.09 Encadrer un agent
+- [ ] A12.05 Create your own MCP server
 
-> [!tip] Piste
-> Permissions minimales, validation humaine pour les actions sensibles, journalisation de chaque action.
+> [!tip] Hint
+> Expose a simple tool (reading log files, for example) through the official SDK.
 
-**Mes notes :**
-
-
----
-
-## A12.10 · Évaluer un agent
-
-- [ ] A12.10 Évaluer un agent
-
-> [!tip] Piste
-> Taux de réussite sur un jeu de tâches, coût moyen, nombre d'étapes.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A12.11 · Explorer les systèmes multi-agents
+## A12.06 · Use a coding agent
 
-- [ ] A12.11 Explorer les systèmes multi-agents
+- [ ] A12.06 Use a coding agent
 
-> [!tip] Piste
-> Un orchestrateur qui délègue à des sous-agents spécialisés.
+> [!tip] Hint
+> Have an agent build a complete feature, then review every change.
 
-**Mes notes :**
+**My notes:**
+
+
+---
+
+## A12.07 · Build a workflow with n8n or Make
+
+- [ ] A12.07 Build a workflow with n8n or Make
+
+> [!tip] Hint
+> Visual automation: an email arrives, the AI classifies it, an action fires.
+
+**My notes:**
+
+
+---
+
+## A12.08 · Manage an agent's memory
+
+- [ ] A12.08 Manage an agent's memory
+
+> [!tip] Hint
+> Short-term memory (context) and long-term memory (files, database).
+
+**My notes:**
+
+
+---
+
+## A12.09 · Put guardrails on an agent
+
+- [ ] A12.09 Put guardrails on an agent
+
+> [!tip] Hint
+> Least privilege, human approval for sensitive actions, logging of every action.
+
+**My notes:**
+
+
+---
+
+## A12.10 · Evaluate an agent
+
+- [ ] A12.10 Evaluate an agent
+
+> [!tip] Hint
+> Success rate on a set of tasks, average cost, number of steps.
+
+**My notes:**
+
+
+---
+
+## A12.11 · Explore multi-agent systems
+
+- [ ] A12.11 Explore multi-agent systems
+
+> [!tip] Hint
+> An orchestrator that delegates to specialized subagents.
+
+**My notes:**
 
 
 ---

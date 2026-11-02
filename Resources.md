@@ -1,35 +1,35 @@
-# Ressources
+# Resources
 
-Liste des ressources citées dans le parcours, regroupées par usage.
+List of the resources cited in the path, grouped by use.
 
-## Intuition et vue d'ensemble
-- 3Blue1Brown : séries Neural Networks et Essence of Linear Algebra (YouTube)
-- Andrej Karpathy : Intro to Large Language Models, Neural Networks: Zero to Hero (YouTube)
-- Jay Alammar : The Illustrated Transformer (blog)
+## Intuition and overview
+- 3Blue1Brown: Neural Networks and Essence of Linear Algebra series (YouTube)
+- Andrej Karpathy: Intro to Large Language Models, Neural Networks: Zero to Hero (YouTube)
+- Jay Alammar: The Illustrated Transformer (blog)
 
-## Cours structurés
-- Andrew Ng : Machine Learning Specialization (Coursera)
-- Mathematics for Machine Learning, Imperial College (Coursera, et livre gratuit)
-- fast.ai : Practical Deep Learning for Coders (gratuit)
-- Hugging Face : cours LLM (gratuit)
-- Tutoriels officiels PyTorch
+## Structured courses
+- Andrew Ng: Machine Learning Specialization (Coursera)
+- Mathematics for Machine Learning, Imperial College (Coursera, and free book)
+- fast.ai: Practical Deep Learning for Coders (free)
+- Hugging Face: LLM course (free)
+- Official PyTorch tutorials
 
-## Livres
-- Aurélien Géron, Machine Learning avec Scikit-Learn (et son tome Deep Learning avec Keras et TensorFlow)
-- Goodfellow, Bengio, Courville, Deep Learning (gratuit en ligne)
+## Books
+- Aurélien Géron, Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow
+- Goodfellow, Bengio, Courville, Deep Learning (free online)
 
-## Articles fondateurs
+## Foundational papers
 - Vaswani et al., Attention Is All You Need (2017)
 - Anthropic, Building effective agents (blog)
 
-## Sécurité et cadre
+## Security and governance
 - OWASP Top 10 for LLM Applications
 - MITRE ATLAS
-- ANSSI, recommandations de sécurité pour un système d'IA générative
-- CNIL, fiches pratiques sur l'IA
-- Règlement européen sur l'IA (AI Act)
+- ANSSI, security recommendations for a generative AI system
+- CNIL, guidance sheets on AI
+- EU Artificial Intelligence Regulation (AI Act)
 
-## Pratique
-- Kaggle (jeux de données et compétitions), Google Colab (GPU gratuits)
-- Hugging Face Hub (modèles et jeux de données)
-- arXiv et Papers with Code (recherche)
+## Practice
+- Kaggle (datasets and competitions), Google Colab (free GPUs)
+- Hugging Face Hub (models and datasets)
+- arXiv and Papers with Code (research)

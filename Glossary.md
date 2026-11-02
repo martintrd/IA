@@ -1,225 +1,225 @@
-# Glossaire
+# Glossary
 
-Définitions de départ. Réécris chacune avec tes propres mots quand tu l'as vraiment comprise, et ajoute les nouveaux termes au fil du parcours.
+Starting definitions. Rewrite each one in your own words once you really understand it, and add new terms as you go through the path.
 
 ## Agent
 
-Système où un modèle décide lui-même des actions à effectuer avec des outils, en boucle, jusqu'à atteindre un objectif.
+A system where a model decides for itself which actions to take with tools, in a loop, until it reaches a goal.
 
-**Avec mes mots :** 
+**In my own words:** 
 
-## Alignement
+## Alignment
 
-Faire en sorte qu'un modèle agisse conformément aux intentions et aux valeurs humaines.
+Making a model act in accordance with human intentions and values.
 
-**Avec mes mots :** 
+**In my own words:** 
 
 ## Attention
 
-Mécanisme qui permet à chaque token de pondérer l'importance des autres tokens du contexte.
+A mechanism that lets each token weigh the importance of the other tokens in the context.
 
-**Avec mes mots :** 
+**In my own words:** 
+
+## Backpropagation
+
+Computing the gradients of the loss with respect to each parameter, layer by layer, using the chain rule.
+
+**In my own words:** 
 
 ## Benchmark
 
-Jeu de tests standardisé pour comparer des modèles.
+A standardized set of tests for comparing models.
 
-**Avec mes mots :** 
+**In my own words:** 
 
-## Biais
+## Bias
 
-Erreur systématique d'un modèle, souvent héritée des données d'entraînement.
+A systematic error in a model, often inherited from the training data.
 
-**Avec mes mots :** 
+**In my own words:** 
 
 ## Chain of thought
 
-Raisonnement intermédiaire écrit par le modèle avant sa réponse finale.
+Intermediate reasoning written by the model before its final answer.
 
-**Avec mes mots :** 
+**In my own words:** 
 
-## Contexte (fenêtre de)
+## Context window
 
-Quantité maximale de tokens que le modèle peut traiter en une fois.
+The maximum number of tokens the model can process at once.
 
-**Avec mes mots :** 
-
-## Descente de gradient
-
-Méthode d'optimisation qui ajuste les paramètres dans la direction qui réduit l'erreur.
-
-**Avec mes mots :** 
+**In my own words:** 
 
 ## Diffusion
 
-Famille de modèles génératifs qui produisent une image en débruitant progressivement un bruit aléatoire.
+A family of generative models that produce an image by gradually denoising random noise.
 
-**Avec mes mots :** 
+**In my own words:** 
 
 ## Embedding
 
-Représentation d'un texte, d'une image ou d'un objet sous forme de vecteur numérique.
+A representation of a text, an image or an object as a numeric vector.
 
-**Avec mes mots :** 
+**In my own words:** 
+
+## Epoch
+
+One complete pass over the entire training dataset.
+
+**In my own words:** 
 
 ## Fine-tuning
 
-Poursuite de l'entraînement d'un modèle pré-entraîné sur des données spécifiques.
+Continuing the training of a pretrained model on specific data.
 
-**Avec mes mots :** 
+**In my own words:** 
+
+## Foundation model
+
+A large general-purpose pretrained model that can be adapted to many tasks.
+
+**In my own words:** 
 
 ## Function calling
 
-Capacité d'un modèle à demander l'exécution d'une fonction avec des arguments structurés.
+A model's ability to request the execution of a function with structured arguments.
 
-**Avec mes mots :** 
+**In my own words:** 
 
 ## GPU
 
-Processeur graphique, adapté aux calculs parallèles massifs de l'apprentissage profond.
+Graphics processing unit, well suited to the massively parallel computations of deep learning.
 
-**Avec mes mots :** 
+**In my own words:** 
+
+## Gradient descent
+
+An optimization method that adjusts the parameters in the direction that reduces the error.
+
+**In my own words:** 
 
 ## Hallucination
 
-Réponse plausible mais fausse ou inventée.
+A plausible but false or made-up answer.
 
-**Avec mes mots :** 
+**In my own words:** 
 
-## Hyperparamètre
+## Hyperparameter
 
-Réglage choisi avant l'entraînement (taux d'apprentissage, taille de lot…), par opposition aux paramètres appris.
+A setting chosen before training (learning rate, batch size…), as opposed to learned parameters.
 
-**Avec mes mots :** 
+**In my own words:** 
 
-## Inférence
+## Inference
 
-Utilisation d'un modèle entraîné pour produire une prédiction ou une réponse.
+Using a trained model to produce a prediction or an answer.
 
-**Avec mes mots :** 
-
-## Injection de prompt
-
-Attaque qui insère des instructions malveillantes dans les données traitées par un modèle.
-
-**Avec mes mots :** 
+**In my own words:** 
 
 ## LLM
 
-Large Language Model, grand modèle de langage entraîné à prédire le token suivant.
+Large Language Model, a model trained to predict the next token.
 
-**Avec mes mots :** 
+**In my own words:** 
 
 ## LoRA
 
-Low-Rank Adaptation, méthode de fine-tuning légère qui n'entraîne qu'une petite partie des paramètres.
+Low-Rank Adaptation, a lightweight fine-tuning method that trains only a small part of the parameters.
 
-**Avec mes mots :** 
+**In my own words:** 
+
+## Loss
+
+A measure of the model's error, which training tries to minimize.
+
+**In my own words:** 
 
 ## MCP
 
-Model Context Protocol, standard ouvert pour connecter des modèles à des outils et des données.
+Model Context Protocol, an open standard for connecting models to tools and data.
 
-**Avec mes mots :** 
-
-## Modèle de fondation
-
-Grand modèle généraliste pré-entraîné, adaptable à de nombreuses tâches.
-
-**Avec mes mots :** 
+**In my own words:** 
 
 ## Multimodal
 
-Qui traite plusieurs types de données : texte, image, son, vidéo.
+Able to handle several types of data: text, image, audio, video.
 
-**Avec mes mots :** 
+**In my own words:** 
 
-## Paramètre
+## Open weights
 
-Valeur interne du modèle (poids) ajustée pendant l'entraînement.
+A model whose parameters are published and downloadable.
 
-**Avec mes mots :** 
+**In my own words:** 
 
-## Perte (loss)
+## Overfitting
 
-Mesure de l'erreur du modèle, que l'entraînement cherche à minimiser.
+The model memorizes the training data and generalizes poorly to new data.
 
-**Avec mes mots :** 
+**In my own words:** 
 
-## Poids ouverts (open weights)
+## Parameter
 
-Modèle dont les paramètres sont publiés et téléchargeables.
+An internal value of the model (a weight) adjusted during training.
 
-**Avec mes mots :** 
+**In my own words:** 
 
-## Prompt système
+## Prompt injection
 
-Instructions de cadrage données au modèle avant les messages de l'utilisateur.
+An attack that inserts malicious instructions into the data processed by a model.
 
-**Avec mes mots :** 
+**In my own words:** 
 
-## Quantification
+## Quantization
 
-Réduction de la précision numérique des poids pour alléger un modèle.
+Reducing the numeric precision of the weights to make a model lighter.
 
-**Avec mes mots :** 
+**In my own words:** 
 
 ## RAG
 
-Retrieval-Augmented Generation : recherche de documents pertinents fournis au modèle avant qu'il réponde.
+Retrieval-Augmented Generation: searching for relevant documents and giving them to the model before it answers.
 
-**Avec mes mots :** 
+**In my own words:** 
 
 ## RLHF
 
-Apprentissage par renforcement à partir de retours humains, utilisé pour aligner les assistants.
+Reinforcement Learning from Human Feedback, used to align assistants.
 
-**Avec mes mots :** 
+**In my own words:** 
 
-## Rétropropagation
+## System prompt
 
-Calcul des gradients de la perte par rapport à chaque paramètre, couche par couche, avec la règle de la chaîne.
+Framing instructions given to the model before the user's messages.
 
-**Avec mes mots :** 
+**In my own words:** 
 
-## Surapprentissage
+## Temperature
 
-Le modèle mémorise les données d'entraînement et généralise mal à de nouvelles données.
+A parameter that controls the randomness of generation.
 
-**Avec mes mots :** 
-
-## Température
-
-Paramètre qui règle le caractère aléatoire de la génération.
-
-**Avec mes mots :** 
+**In my own words:** 
 
 ## Token
 
-Unité de texte manipulée par le modèle, souvent un morceau de mot.
+A unit of text handled by the model, often a piece of a word.
 
-**Avec mes mots :** 
+**In my own words:** 
 
-## Transfert d'apprentissage
+## Transfer learning
 
-Réutilisation d'un modèle entraîné sur une tâche pour en résoudre une autre.
+Reusing a model trained on one task to solve another.
 
-**Avec mes mots :** 
+**In my own words:** 
 
 ## Transformer
 
-Architecture de réseau fondée sur l'attention, base de tous les LLM actuels.
+A network architecture based on attention, the foundation of all current LLMs.
 
-**Avec mes mots :** 
+**In my own words:** 
 
-## Vecteur (base vectorielle)
+## Vector database
 
-Base de données optimisée pour retrouver les embeddings les plus proches d'une requête.
+A database optimized for finding the embeddings closest to a query.
 
-**Avec mes mots :** 
-
-## Époque (epoch)
-
-Un passage complet sur tout le jeu de données d'entraînement.
-
-**Avec mes mots :** 
+**In my own words:** 

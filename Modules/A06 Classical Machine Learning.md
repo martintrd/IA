@@ -1,154 +1,154 @@
 ---
 module: A06
-tags: [ia, carnet]
+tags: [ai, notebook]
 ---
 
-# A06 · Machine learning classique
+# A06 · Classical Machine Learning
 
-> Les fondations, encore très utilisées en entreprise.
+> The foundations, still widely used in companies.
 
-[[00 Accueil|← Retour à l'accueil]] · [[Glossaire]] · [[Ressources]]
+[[00 Home|← Back to home]] · [[Glossary]] · [[Resources]]
 
-## A06.01 · Suivre la Machine Learning Specialization d'Andrew Ng
+## A06.01 · Take Andrew Ng's Machine Learning Specialization
 
-- [ ] A06.01 Suivre la Machine Learning Specialization d'Andrew Ng
+- [ ] A06.01 Take Andrew Ng's Machine Learning Specialization
 
-> [!tip] Piste
-> Coursera, la référence pédagogique pour démarrer.
+> [!tip] Hint
+> Coursera, the go-to course to get started.
 
-**Mes notes :**
-
-
----
-
-## A06.02 · Coder une régression linéaire à la main
-
-- [ ] A06.02 Coder une régression linéaire à la main
-
-> [!tip] Piste
-> En NumPy, avec ta propre descente de gradient, puis compare avec scikit-learn.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A06.03 · Comprendre la régression logistique
+## A06.02 · Code a linear regression by hand
 
-- [ ] A06.03 Comprendre la régression logistique
+- [ ] A06.02 Code a linear regression by hand
 
-> [!tip] Piste
-> Le modèle de classification le plus simple, et toujours un excellent point de départ.
+> [!tip] Hint
+> In NumPy, with your own gradient descent, then compare with scikit-learn.
 
-**Mes notes :**
-
-
----
-
-## A06.04 · Arbres de décision et forêts aléatoires
-
-- [ ] A06.04 Arbres de décision et forêts aléatoires
-
-> [!tip] Piste
-> Modèles lisibles et robustes, très utilisés sur des données tabulaires.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A06.05 · Gradient boosting avec XGBoost ou LightGBM
+## A06.03 · Understand logistic regression
 
-- [ ] A06.05 Gradient boosting avec XGBoost ou LightGBM
+- [ ] A06.03 Understand logistic regression
 
-> [!tip] Piste
-> Souvent le meilleur choix sur des données tabulaires, en compétition comme en production.
+> [!tip] Hint
+> The simplest classification model, and still an excellent starting point.
 
-**Mes notes :**
-
-
----
-
-## A06.06 · Clustering avec k-means et DBSCAN
-
-- [ ] A06.06 Clustering avec k-means et DBSCAN
-
-> [!tip] Piste
-> Regrouper sans étiquettes. Teste-le sur des données d'événements.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A06.07 · Réduction de dimension avec PCA et t-SNE
+## A06.04 · Decision trees and random forests
 
-- [ ] A06.07 Réduction de dimension avec PCA et t-SNE
+- [ ] A06.04 Decision trees and random forests
 
-> [!tip] Piste
-> Visualiser des données à beaucoup de dimensions.
+> [!tip] Hint
+> Readable, robust models, widely used on tabular data.
 
-**Mes notes :**
-
-
----
-
-## A06.08 · Maîtriser train, validation et test
-
-- [ ] A06.08 Maîtriser train, validation et test
-
-> [!tip] Piste
-> Pourquoi on ne mesure jamais la performance sur les données d'entraînement.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A06.09 · Comprendre surapprentissage et sous-apprentissage
+## A06.05 · Gradient boosting with XGBoost or LightGBM
 
-- [ ] A06.09 Comprendre surapprentissage et sous-apprentissage
+- [ ] A06.05 Gradient boosting with XGBoost or LightGBM
 
-> [!tip] Piste
-> Le compromis biais-variance, la régularisation, la validation croisée.
+> [!tip] Hint
+> Often the best choice on tabular data, in competitions as well as in production.
 
-**Mes notes :**
-
-
----
-
-## A06.10 · Choisir la bonne métrique
-
-- [ ] A06.10 Choisir la bonne métrique
-
-> [!tip] Piste
-> Précision, rappel, F1, AUC. En détection d'intrusion, pourquoi l'exactitude seule est trompeuse.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A06.11 · Projet : détection d'anomalies sur des données réseau
+## A06.06 · Clustering with k-means and DBSCAN
 
-- [ ] A06.11 Projet : détection d'anomalies sur des données réseau
+- [ ] A06.06 Clustering with k-means and DBSCAN
 
-> [!tip] Piste
-> Isolation Forest sur un jeu de données public de trafic réseau (par exemple CIC-IDS2017).
+> [!tip] Hint
+> Grouping without labels. Try it on event data.
 
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A06.12 · Lire Machine Learning avec Scikit-Learn d'Aurélien Géron
+## A06.07 · Dimensionality reduction with PCA and t-SNE
 
-- [ ] A06.12 Lire Machine Learning avec Scikit-Learn d'Aurélien Géron
+- [ ] A06.07 Dimensionality reduction with PCA and t-SNE
 
-> [!tip] Piste
-> Le livre de référence, disponible en français.
+> [!tip] Hint
+> Visualizing high-dimensional data.
 
-**Mes notes :**
+**My notes:**
+
+
+---
+
+## A06.08 · Master train, validation and test
+
+- [ ] A06.08 Master train, validation and test
+
+> [!tip] Hint
+> Why you never measure performance on the training data.
+
+**My notes:**
+
+
+---
+
+## A06.09 · Understand overfitting and underfitting
+
+- [ ] A06.09 Understand overfitting and underfitting
+
+> [!tip] Hint
+> The bias-variance tradeoff, regularization, cross-validation.
+
+**My notes:**
+
+
+---
+
+## A06.10 · Choose the right metric
+
+- [ ] A06.10 Choose the right metric
+
+> [!tip] Hint
+> Precision, recall, F1, AUC. In intrusion detection, why accuracy alone is misleading.
+
+**My notes:**
+
+
+---
+
+## A06.11 · Project: anomaly detection on network data
+
+- [ ] A06.11 Project: anomaly detection on network data
+
+> [!tip] Hint
+> Isolation Forest on a public network traffic dataset (for example CIC-IDS2017).
+
+**My notes:**
+
+
+---
+
+## A06.12 · Read Hands-On Machine Learning with Scikit-Learn by Aurélien Géron
+
+- [ ] A06.12 Read Hands-On Machine Learning with Scikit-Learn by Aurélien Géron
+
+> [!tip] Hint
+> The reference book.
+
+**My notes:**
 
 
 ---

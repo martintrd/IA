@@ -1,106 +1,106 @@
 ---
 module: A05
-tags: [ia, carnet]
+tags: [ai, notebook]
 ---
 
-# A05 · Python pour la donnée
+# A05 · Python for Data
 
-> L'outil de travail de toute l'IA.
+> The working tool of all of AI.
 
-[[00 Accueil|← Retour à l'accueil]] · [[Glossaire]] · [[Ressources]]
+[[00 Home|← Back to home]] · [[Glossary]] · [[Resources]]
 
-## A05.01 · Revoir les bases de Python
+## A05.01 · Review the basics of Python
 
-- [ ] A05.01 Revoir les bases de Python
+- [ ] A05.01 Review the basics of Python
 
-> [!tip] Piste
-> Types, listes, dictionnaires, fonctions, classes, compréhensions de listes.
+> [!tip] Hint
+> Types, lists, dictionaries, functions, classes, list comprehensions.
 
-**Mes notes :**
-
-
----
-
-## A05.02 · Maîtriser NumPy
-
-- [ ] A05.02 Maîtriser NumPy
-
-> [!tip] Piste
-> Tableaux, vectorisation, broadcasting. Refais en NumPy un calcul que tu aurais fait en boucle.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A05.03 · Maîtriser pandas
+## A05.02 · Master NumPy
 
-- [ ] A05.03 Maîtriser pandas
+- [ ] A05.02 Master NumPy
 
-> [!tip] Piste
-> Charger un CSV, filtrer, grouper, joindre, nettoyer les valeurs manquantes.
+> [!tip] Hint
+> Arrays, vectorization, broadcasting. Redo in NumPy a calculation you would have written as a loop.
 
-**Mes notes :**
-
-
----
-
-## A05.04 · Visualiser avec Matplotlib et Seaborn
-
-- [ ] A05.04 Visualiser avec Matplotlib et Seaborn
-
-> [!tip] Piste
-> Histogramme, nuage de points, matrice de corrélation.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A05.05 · Faire une analyse exploratoire complète
+## A05.03 · Master pandas
 
-- [ ] A05.05 Faire une analyse exploratoire complète
+- [ ] A05.03 Master pandas
 
-> [!tip] Piste
-> Un jeu de données Kaggle (par exemple le Titanic) : questions, graphiques, conclusions.
+> [!tip] Hint
+> Load a CSV, filter, group, join, clean missing values.
 
-**Mes notes :**
-
-
----
-
-## A05.06 · Analyser tes propres journaux de sécurité
-
-- [ ] A05.06 Analyser tes propres journaux de sécurité
-
-> [!tip] Piste
-> Charger un export de logs anonymisé dans pandas et en sortir des statistiques.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A05.07 · Appeler une API web en Python
+## A05.04 · Visualize with Matplotlib and Seaborn
 
-- [ ] A05.07 Appeler une API web en Python
+- [ ] A05.04 Visualize with Matplotlib and Seaborn
 
-> [!tip] Piste
-> Bibliothèque `requests`, JSON, gestion des erreurs et des clés dans des variables d'environnement.
+> [!tip] Hint
+> Histogram, scatter plot, correlation matrix.
 
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A05.08 · Écrire du code propre
+## A05.05 · Do a full exploratory analysis
 
-- [ ] A05.08 Écrire du code propre
+- [ ] A05.05 Do a full exploratory analysis
 
-> [!tip] Piste
-> Fonctions courtes, noms explicites, `ruff` pour le style, un README par projet.
+> [!tip] Hint
+> A Kaggle dataset (for example Titanic): questions, charts, conclusions.
 
-**Mes notes :**
+**My notes:**
+
+
+---
+
+## A05.06 · Analyze your own security logs
+
+- [ ] A05.06 Analyze your own security logs
+
+> [!tip] Hint
+> Load an anonymized log export into pandas and pull statistics from it.
+
+**My notes:**
+
+
+---
+
+## A05.07 · Call a web API in Python
+
+- [ ] A05.07 Call a web API in Python
+
+> [!tip] Hint
+> The `requests` library, JSON, handling errors, and keeping keys in environment variables.
+
+**My notes:**
+
+
+---
+
+## A05.08 · Write clean code
+
+- [ ] A05.08 Write clean code
+
+> [!tip] Hint
+> Short functions, explicit names, `ruff` for style, one README per project.
+
+**My notes:**
 
 
 ---

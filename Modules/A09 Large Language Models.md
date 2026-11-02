@@ -1,142 +1,142 @@
 ---
 module: A09
-tags: [ia, carnet]
+tags: [ai, notebook]
 ---
 
-# A09 · Les grands modèles de langage
+# A09 · Large Language Models
 
-> Comment on fabrique, aligne et évalue un LLM.
+> How an LLM is built, aligned and evaluated.
 
-[[00 Accueil|← Retour à l'accueil]] · [[Glossaire]] · [[Ressources]]
+[[00 Home|← Back to home]] · [[Glossary]] · [[Resources]]
 
-## A09.01 · Comprendre le pré-entraînement
+## A09.01 · Understand pretraining
 
-- [ ] A09.01 Comprendre le pré-entraînement
+- [ ] A09.01 Understand pretraining
 
-> [!tip] Piste
-> Prédire le token suivant sur une immense quantité de texte.
+> [!tip] Hint
+> Predicting the next token over a huge amount of text.
 
-**Mes notes :**
-
-
----
-
-## A09.02 · Comprendre les lois d'échelle
-
-- [ ] A09.02 Comprendre les lois d'échelle
-
-> [!tip] Piste
-> Comment la performance évolue avec la taille du modèle, les données et le calcul.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A09.03 · Comprendre le fine-tuning par instructions
+## A09.02 · Understand scaling laws
 
-- [ ] A09.03 Comprendre le fine-tuning par instructions
+- [ ] A09.02 Understand scaling laws
 
-> [!tip] Piste
-> Comment un modèle qui complète du texte devient un assistant qui répond.
+> [!tip] Hint
+> How performance changes with model size, data and compute.
 
-**Mes notes :**
-
-
----
-
-## A09.04 · Comprendre RLHF et ses alternatives
-
-- [ ] A09.04 Comprendre RLHF et ses alternatives
-
-> [!tip] Piste
-> Apprentissage par renforcement à partir de préférences humaines, DPO, et approches constitutionnelles.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A09.05 · Comprendre la fenêtre de contexte
+## A09.03 · Understand instruction fine-tuning
 
-- [ ] A09.05 Comprendre la fenêtre de contexte
+- [ ] A09.03 Understand instruction fine-tuning
 
-> [!tip] Piste
-> Ce que le modèle « voit » à un instant donné, et ce que ça coûte.
+> [!tip] Hint
+> How a model that completes text becomes an assistant that answers.
 
-**Mes notes :**
-
-
----
-
-## A09.06 · Maîtriser les paramètres d'échantillonnage
-
-- [ ] A09.06 Maîtriser les paramètres d'échantillonnage
-
-> [!tip] Piste
-> Température, top-p, top-k : expérimente sur la même question.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A09.07 · Comprendre pourquoi les LLM hallucinent
+## A09.04 · Understand RLHF and its alternatives
 
-- [ ] A09.07 Comprendre pourquoi les LLM hallucinent
+- [ ] A09.04 Understand RLHF and its alternatives
 
-> [!tip] Piste
-> Un modèle prédit du texte plausible, pas forcément vrai.
+> [!tip] Hint
+> Reinforcement learning from human preferences, DPO, and constitutional approaches.
 
-**Mes notes :**
-
-
----
-
-## A09.08 · Comprendre les modèles de raisonnement
-
-- [ ] A09.08 Comprendre les modèles de raisonnement
-
-> [!tip] Piste
-> Pourquoi laisser un modèle réfléchir plus longtemps améliore les problèmes difficiles.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A09.09 · Comprendre l'évaluation des modèles
+## A09.05 · Understand the context window
 
-- [ ] A09.09 Comprendre l'évaluation des modèles
+- [ ] A09.05 Understand the context window
 
-> [!tip] Piste
-> Benchmarks, leurs limites, la contamination des données, l'évaluation humaine.
+> [!tip] Hint
+> What the model "sees" at a given moment, and what that costs.
 
-**Mes notes :**
-
-
----
-
-## A09.10 · Regarder Intro to Large Language Models de Karpathy
-
-- [ ] A09.10 Regarder Intro to Large Language Models de Karpathy
-
-> [!tip] Piste
-> Une heure de vue d'ensemble très claire.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A09.11 · Découvrir l'interprétabilité
+## A09.06 · Master sampling parameters
 
-- [ ] A09.11 Découvrir l'interprétabilité
+- [ ] A09.06 Master sampling parameters
 
-> [!tip] Piste
-> Ce que la recherche découvre sur les représentations internes des modèles.
+> [!tip] Hint
+> Temperature, top-p, top-k: experiment on the same question.
 
-**Mes notes :**
+**My notes:**
+
+
+---
+
+## A09.07 · Understand why LLMs hallucinate
+
+- [ ] A09.07 Understand why LLMs hallucinate
+
+> [!tip] Hint
+> A model predicts plausible text, not necessarily true text.
+
+**My notes:**
+
+
+---
+
+## A09.08 · Understand reasoning models
+
+- [ ] A09.08 Understand reasoning models
+
+> [!tip] Hint
+> Why letting a model think longer improves results on hard problems.
+
+**My notes:**
+
+
+---
+
+## A09.09 · Understand model evaluation
+
+- [ ] A09.09 Understand model evaluation
+
+> [!tip] Hint
+> Benchmarks, their limits, data contamination, human evaluation.
+
+**My notes:**
+
+
+---
+
+## A09.10 · Watch Karpathy's Intro to Large Language Models
+
+- [ ] A09.10 Watch Karpathy's Intro to Large Language Models
+
+> [!tip] Hint
+> One very clear hour-long overview.
+
+**My notes:**
+
+
+---
+
+## A09.11 · Discover interpretability
+
+- [ ] A09.11 Discover interpretability
+
+> [!tip] Hint
+> What research is finding out about models' internal representations.
+
+**My notes:**
 
 
 ---

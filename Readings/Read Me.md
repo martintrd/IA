@@ -1,3 +1,3 @@
-# Lectures
+# Readings
 
-Une note par article, vidéo ou chapitre : ce que ça dit, ce que j'en retiens, les notions du [[Glossaire]] concernées.
+One note per article, video or chapter: what it says, what I take away from it, the [[Glossary]] concepts involved.

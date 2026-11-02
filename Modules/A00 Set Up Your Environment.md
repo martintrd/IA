@@ -1,22 +1,22 @@
 ---
 module: A00
-tags: [ia, carnet]
+tags: [ai, notebook]
 ---
 
-# A00 · Préparer son environnement
+# A00 · Set Up Your Environment
 
-> Les outils de base pour suivre tout le parcours.
+> The basic tools you need to follow the whole path.
 
-[[00 Accueil|← Retour à l'accueil]] · [[Glossaire]] · [[Ressources]]
+[[00 Home|← Back to home]] · [[Glossary]] · [[Resources]]
 
-## A00.01 · Créer un dossier de travail et un dépôt Git
+## A00.01 · Create a working folder and a Git repository
 
-- [x] A00.01 Créer un dossier de travail et un dépôt Git
+- [x] A00.01 Create a working folder and a Git repository
 
-> [!tip] Piste
-> `git init` et un compte GitHub pour publier tes projets au fil du parcours.
+> [!tip] Hint
+> `git init` and a GitHub account to publish your projects as you go through the path.
 
-**Mes notes :**
+**My notes:**
 
 git init
 git add .
@@ -27,75 +27,75 @@ git push -u origin main
 
 ---
 
-## A00.02 · Installer Python et un gestionnaire d'environnements
+## A00.02 · Install Python and an environment manager
 
-- [x] A00.02 Installer Python et un gestionnaire d'environnements
+- [x] A00.02 Install Python and an environment manager
 
-> [!tip] Piste
-> Python 3 récent, puis `uv` ou `venv` : un environnement par projet.
+> [!tip] Hint
+> A recent Python 3, then `uv` or `venv`: one environment per project.
 
-**Mes notes :**
-
-
----
-
-## A00.03 · Installer VS Code et ses extensions Python et Jupyter
-
-- [x] A00.03 Installer VS Code et ses extensions Python et Jupyter
-
-> [!tip] Piste
-> Tu alterneras entre notebooks pour explorer et scripts pour construire.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A00.04 · Créer un compte Google Colab et un compte Kaggle
+## A00.03 · Install VS Code and its Python and Jupyter extensions
 
-- [x] A00.04 Créer un compte Google Colab et un compte Kaggle
+- [x] A00.03 Install VS Code and its Python and Jupyter extensions
 
-> [!tip] Piste
-> Des GPU gratuits pour l'entraînement, et des jeux de données pour pratiquer.
+> [!tip] Hint
+> You'll alternate between notebooks to explore and scripts to build.
 
-**Mes notes :**
-
-
----
-
-## A00.05 · Créer un compte Hugging Face
-
-- [x] A00.05 Créer un compte Hugging Face
-
-> [!tip] Piste
-> Le hub central des modèles, jeux de données et démos open source.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A00.06 · Ouvrir un compte développeur chez un fournisseur d'API d'IA
+## A00.04 · Create a Google Colab account and a Kaggle account
 
-- [ ] A00.06 Ouvrir un compte développeur chez un fournisseur d'API d'IA
+- [x] A00.04 Create a Google Colab account and a Kaggle account
 
-> [!tip] Piste
-> Tu en auras besoin à partir du module A10. Définis tout de suite une limite de dépense.
+> [!tip] Hint
+> Free GPUs for training, and datasets to practice on.
 
-**Mes notes :**
+**My notes:**
 
-Plus tard
 
 ---
 
-## A00.07 · Mettre en place ta veille dans Obsidian
+## A00.05 · Create a Hugging Face account
 
-- [x] A00.07 Mettre en place ta veille dans Obsidian
+- [x] A00.05 Create a Hugging Face account
 
-> [!tip] Piste
-> Une note par article lu, reliée aux notions du [[Glossaire]].
+> [!tip] Hint
+> The central hub for open source models, datasets and demos.
 
-**Mes notes :**
+**My notes:**
+
+
+---
+
+## A00.06 · Open a developer account with an AI API provider
+
+- [ ] A00.06 Open a developer account with an AI API provider
+
+> [!tip] Hint
+> You'll need it from module A10 onward. Set a spending limit right away.
+
+**My notes:**
+
+Later
+
+---
+
+## A00.07 · Set up your tech watch in Obsidian
+
+- [x] A00.07 Set up your tech watch in Obsidian
+
+> [!tip] Hint
+> One note per article you read, linked to the concepts in the [[Glossary]].
+
+**My notes:**
 
 
 ---

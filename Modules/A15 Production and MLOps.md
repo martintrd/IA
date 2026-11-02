@@ -1,118 +1,118 @@
 ---
 module: A15
-tags: [ia, carnet]
+tags: [ai, notebook]
 ---
 
-# A15 · Mise en production et MLOps
+# A15 · Production and MLOps
 
-> Ce qui sépare une démo d'un vrai produit.
+> What separates a demo from a real product.
 
-[[00 Accueil|← Retour à l'accueil]] · [[Glossaire]] · [[Ressources]]
+[[00 Home|← Back to home]] · [[Glossary]] · [[Resources]]
 
-## A15.01 · Versionner données, code et modèles
+## A15.01 · Version data, code and models
 
-- [ ] A15.01 Versionner données, code et modèles
+- [ ] A15.01 Version data, code and models
 
-> [!tip] Piste
-> Git, DVC, et un registre de modèles comme MLflow.
+> [!tip] Hint
+> Git, DVC, and a model registry such as MLflow.
 
-**Mes notes :**
-
-
----
-
-## A15.02 · Suivre ses expériences
-
-- [ ] A15.02 Suivre ses expériences
-
-> [!tip] Piste
-> MLflow ou Weights & Biases : paramètres, métriques, comparaison des essais.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A15.03 · Exposer un modèle avec FastAPI
+## A15.02 · Track your experiments
 
-- [ ] A15.03 Exposer un modèle avec FastAPI
+- [ ] A15.02 Track your experiments
 
-> [!tip] Piste
-> Une API REST qui sert les prédictions.
+> [!tip] Hint
+> MLflow or Weights & Biases: parameters, metrics, comparing runs.
 
-**Mes notes :**
-
-
----
-
-## A15.04 · Conteneuriser avec Docker
-
-- [ ] A15.04 Conteneuriser avec Docker
-
-> [!tip] Piste
-> Un Dockerfile pour ton API, reproductible partout.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A15.05 · Mettre en place l'évaluation continue
+## A15.03 · Serve a model with FastAPI
 
-- [ ] A15.05 Mettre en place l'évaluation continue
+- [ ] A15.03 Serve a model with FastAPI
 
-> [!tip] Piste
-> Ton jeu de tests rejoué automatiquement à chaque modification, dans GitHub Actions.
+> [!tip] Hint
+> A REST API that serves predictions.
 
-**Mes notes :**
-
-
----
-
-## A15.06 · Surveiller un modèle en production
-
-- [ ] A15.06 Surveiller un modèle en production
-
-> [!tip] Piste
-> Latence, coûts, erreurs, dérive des données, retours des utilisateurs.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A15.07 · Tracer les appels à un LLM
+## A15.04 · Containerize with Docker
 
-- [ ] A15.07 Tracer les appels à un LLM
+- [ ] A15.04 Containerize with Docker
 
-> [!tip] Piste
-> Journaliser prompts, réponses, tokens et coût de chaque appel, avec un outil comme Langfuse.
+> [!tip] Hint
+> A Dockerfile for your API, reproducible everywhere.
 
-**Mes notes :**
-
-
----
-
-## A15.08 · Déployer sur un cloud
-
-- [ ] A15.08 Déployer sur un cloud
-
-> [!tip] Piste
-> Héberge un de tes projets et rends-le accessible avec une URL.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A15.09 · Mettre en place des garde-fous
+## A15.05 · Set up continuous evaluation
 
-- [ ] A15.09 Mettre en place des garde-fous
+- [ ] A15.05 Set up continuous evaluation
 
-> [!tip] Piste
-> Filtrage des entrées et des sorties, limites de débit, solutions de repli.
+> [!tip] Hint
+> Your test set replayed automatically on every change, in GitHub Actions.
 
-**Mes notes :**
+**My notes:**
+
+
+---
+
+## A15.06 · Monitor a model in production
+
+- [ ] A15.06 Monitor a model in production
+
+> [!tip] Hint
+> Latency, costs, errors, data drift, user feedback.
+
+**My notes:**
+
+
+---
+
+## A15.07 · Trace calls to an LLM
+
+- [ ] A15.07 Trace calls to an LLM
+
+> [!tip] Hint
+> Log the prompts, responses, tokens and cost of every call, with a tool like Langfuse.
+
+**My notes:**
+
+
+---
+
+## A15.08 · Deploy to a cloud
+
+- [ ] A15.08 Deploy to a cloud
+
+> [!tip] Hint
+> Host one of your projects and make it reachable at a URL.
+
+**My notes:**
+
+
+---
+
+## A15.09 · Set up guardrails
+
+- [ ] A15.09 Set up guardrails
+
+> [!tip] Hint
+> Input and output filtering, rate limits, fallbacks.
+
+**My notes:**
 
 
 ---

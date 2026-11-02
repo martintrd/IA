@@ -1,154 +1,154 @@
 ---
 module: A07
-tags: [ia, carnet]
+tags: [ai, notebook]
 ---
 
-# A07 · Deep learning
+# A07 · Deep Learning
 
-> Les réseaux de neurones, de la théorie au code.
+> Neural networks, from theory to code.
 
-[[00 Accueil|← Retour à l'accueil]] · [[Glossaire]] · [[Ressources]]
+[[00 Home|← Back to home]] · [[Glossary]] · [[Resources]]
 
-## A07.01 · Suivre Neural Networks: Zero to Hero d'Andrej Karpathy
+## A07.01 · Take Andrej Karpathy's Neural Networks: Zero to Hero
 
-- [ ] A07.01 Suivre Neural Networks: Zero to Hero d'Andrej Karpathy
+- [ ] A07.01 Take Andrej Karpathy's Neural Networks: Zero to Hero
 
-> [!tip] Piste
-> Gratuit sur YouTube. Tu construis tout toi-même, depuis zéro.
+> [!tip] Hint
+> Free on YouTube. You build everything yourself, from scratch.
 
-**Mes notes :**
-
-
----
-
-## A07.02 · Coder un perceptron multicouche à la main
-
-- [ ] A07.02 Coder un perceptron multicouche à la main
-
-> [!tip] Piste
-> Propagation avant et rétropropagation en NumPy, sur un petit jeu de données.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A07.03 · Comprendre les fonctions d'activation
+## A07.02 · Code a multilayer perceptron by hand
 
-- [ ] A07.03 Comprendre les fonctions d'activation
+- [ ] A07.02 Code a multilayer perceptron by hand
 
-> [!tip] Piste
-> ReLU, GELU, sigmoïde, tanh : pourquoi la non-linéarité est indispensable.
+> [!tip] Hint
+> Forward pass and backpropagation in NumPy, on a small dataset.
 
-**Mes notes :**
-
-
----
-
-## A07.04 · Comprendre les optimiseurs
-
-- [ ] A07.04 Comprendre les optimiseurs
-
-> [!tip] Piste
-> SGD, momentum, Adam, et le rôle du taux d'apprentissage.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A07.05 · Apprendre PyTorch
+## A07.03 · Understand activation functions
 
-- [ ] A07.05 Apprendre PyTorch
+- [ ] A07.03 Understand activation functions
 
-> [!tip] Piste
-> Tenseurs, autograd, `nn.Module`, boucle d'entraînement. Tutoriels officiels de PyTorch.
+> [!tip] Hint
+> ReLU, GELU, sigmoid, tanh: why non-linearity is essential.
 
-**Mes notes :**
-
-
----
-
-## A07.06 · Entraîner un classifieur d'images sur MNIST
-
-- [ ] A07.06 Entraîner un classifieur d'images sur MNIST
-
-> [!tip] Piste
-> Ton premier réseau entraîné de bout en bout.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A07.07 · Comprendre les réseaux convolutifs
+## A07.04 · Understand optimizers
 
-- [ ] A07.07 Comprendre les réseaux convolutifs
+- [ ] A07.04 Understand optimizers
 
-> [!tip] Piste
-> Filtres, pooling, et pourquoi ils fonctionnent si bien sur les images.
+> [!tip] Hint
+> SGD, momentum, Adam, and the role of the learning rate.
 
-**Mes notes :**
-
-
----
-
-## A07.08 · Faire du transfert d'apprentissage
-
-- [ ] A07.08 Faire du transfert d'apprentissage
-
-> [!tip] Piste
-> Réutiliser un modèle pré-entraîné pour une nouvelle tâche avec peu de données.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A07.09 · Comprendre les réseaux récurrents et leurs limites
+## A07.05 · Learn PyTorch
 
-- [ ] A07.09 Comprendre les réseaux récurrents et leurs limites
+- [ ] A07.05 Learn PyTorch
 
-> [!tip] Piste
-> RNN, LSTM, et pourquoi les Transformers les ont remplacés.
+> [!tip] Hint
+> Tensors, autograd, `nn.Module`, training loop. Official PyTorch tutorials.
 
-**Mes notes :**
-
-
----
-
-## A07.10 · Maîtriser les techniques de régularisation
-
-- [ ] A07.10 Maîtriser les techniques de régularisation
-
-> [!tip] Piste
-> Dropout, normalisation par lots et par couches, early stopping.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A07.11 · Suivre le cours Practical Deep Learning de fast.ai
+## A07.06 · Train an image classifier on MNIST
 
-- [ ] A07.11 Suivre le cours Practical Deep Learning de fast.ai
+- [ ] A07.06 Train an image classifier on MNIST
 
-> [!tip] Piste
-> Approche par le haut, très orientée projets.
+> [!tip] Hint
+> Your first network trained end to end.
 
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A07.12 · Lire Deep Learning de Goodfellow, Bengio et Courville
+## A07.07 · Understand convolutional networks
 
-- [ ] A07.12 Lire Deep Learning de Goodfellow, Bengio et Courville
+- [ ] A07.07 Understand convolutional networks
 
-> [!tip] Piste
-> Le manuel théorique de référence, gratuit en ligne. À lire chapitre par chapitre.
+> [!tip] Hint
+> Filters, pooling, and why they work so well on images.
 
-**Mes notes :**
+**My notes:**
+
+
+---
+
+## A07.08 · Do transfer learning
+
+- [ ] A07.08 Do transfer learning
+
+> [!tip] Hint
+> Reuse a pretrained model for a new task with little data.
+
+**My notes:**
+
+
+---
+
+## A07.09 · Understand recurrent networks and their limits
+
+- [ ] A07.09 Understand recurrent networks and their limits
+
+> [!tip] Hint
+> RNN, LSTM, and why Transformers replaced them.
+
+**My notes:**
+
+
+---
+
+## A07.10 · Master regularization techniques
+
+- [ ] A07.10 Master regularization techniques
+
+> [!tip] Hint
+> Dropout, batch and layer normalization, early stopping.
+
+**My notes:**
+
+
+---
+
+## A07.11 · Take the fast.ai Practical Deep Learning course
+
+- [ ] A07.11 Take the fast.ai Practical Deep Learning course
+
+> [!tip] Hint
+> A top-down approach, very project-oriented.
+
+**My notes:**
+
+
+---
+
+## A07.12 · Read Deep Learning by Goodfellow, Bengio and Courville
+
+- [ ] A07.12 Read Deep Learning by Goodfellow, Bengio and Courville
+
+> [!tip] Hint
+> The reference theory textbook, free online. Read it chapter by chapter.
+
+**My notes:**
 
 
 ---

@@ -1,3 +1,3 @@
-# Projets
+# Projects
 
-Une note par projet, créée à partir du [[Modèle de projet]].
+One note per project, created from the [[Project Template]].

@@ -1,118 +1,118 @@
 ---
 module: A17
-tags: [ia, carnet]
+tags: [ai, notebook]
 ---
 
-# A17 · Éthique, droit et société
+# A17 · Ethics, Law and Society
 
-> Comprendre les enjeux, pas seulement la technique.
+> Understand the stakes, not just the technology.
 
-[[00 Accueil|← Retour à l'accueil]] · [[Glossaire]] · [[Ressources]]
+[[00 Home|← Back to home]] · [[Glossary]] · [[Resources]]
 
-## A17.01 · Comprendre le règlement européen sur l'IA (AI Act)
+## A17.01 · Understand the EU regulation on AI (AI Act)
 
-- [ ] A17.01 Comprendre le règlement européen sur l'IA (AI Act)
+- [ ] A17.01 Understand the EU regulation on AI (AI Act)
 
-> [!tip] Piste
-> Approche par les risques : pratiques interdites, haut risque, obligations de transparence, calendrier d'application.
+> [!tip] Hint
+> Risk-based approach: prohibited practices, high risk, transparency obligations, application timeline.
 
-**Mes notes :**
-
-
----
-
-## A17.02 · Appliquer le RGPD aux projets d'IA
-
-- [ ] A17.02 Appliquer le RGPD aux projets d'IA
-
-> [!tip] Piste
-> Base légale, minimisation, droits des personnes. Lis les fiches de la CNIL sur l'IA.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A17.03 · Comprendre les biais algorithmiques
+## A17.02 · Apply the GDPR to AI projects
 
-- [ ] A17.03 Comprendre les biais algorithmiques
+- [ ] A17.02 Apply the GDPR to AI projects
 
-> [!tip] Piste
-> D'où ils viennent (données, conception), comment les mesurer, comment les réduire.
+> [!tip] Hint
+> Legal basis, data minimization, individuals' rights. Read the CNIL's guidance sheets on AI.
 
-**Mes notes :**
-
-
----
-
-## A17.04 · Comprendre l'explicabilité
-
-- [ ] A17.04 Comprendre l'explicabilité
-
-> [!tip] Piste
-> SHAP, LIME : expliquer la décision d'un modèle. Teste SHAP sur ton modèle du module A06.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A17.05 · Connaître les débats sur le droit d'auteur
+## A17.03 · Understand algorithmic bias
 
-- [ ] A17.05 Connaître les débats sur le droit d'auteur
+- [ ] A17.03 Understand algorithmic bias
 
-> [!tip] Piste
-> Données d'entraînement, contenus générés, procès en cours.
+> [!tip] Hint
+> Where it comes from (data, design), how to measure it, how to reduce it.
 
-**Mes notes :**
-
-
----
-
-## A17.06 · Comprendre l'impact environnemental
-
-- [ ] A17.06 Comprendre l'impact environnemental
-
-> [!tip] Piste
-> Énergie et eau pour l'entraînement et l'inférence, et comment l'estimer.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A17.07 · Découvrir la sûreté et l'alignement de l'IA
+## A17.04 · Understand explainability
 
-- [ ] A17.07 Découvrir la sûreté et l'alignement de l'IA
+- [ ] A17.04 Understand explainability
 
-> [!tip] Piste
-> Pourquoi il est difficile de garantir qu'un modèle fasse ce qu'on veut. Lis des publications de laboratoires et d'instituts de sécurité de l'IA.
+> [!tip] Hint
+> SHAP, LIME: explaining a model's decision. Try SHAP on your model from module A06.
 
-**Mes notes :**
-
-
----
-
-## A17.08 · Comprendre l'impact sur le travail
-
-- [ ] A17.08 Comprendre l'impact sur le travail
-
-> [!tip] Piste
-> Quels métiers sont transformés, et comment se positionner.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A17.09 · Rédiger ta position personnelle
+## A17.05 · Know the copyright debates
 
-- [ ] A17.09 Rédiger ta position personnelle
+- [ ] A17.05 Know the copyright debates
 
-> [!tip] Piste
-> Une page dans ton carnet : opportunités, risques, et ce que tu en penses.
+> [!tip] Hint
+> Training data, generated content, ongoing lawsuits.
 
-**Mes notes :**
+**My notes:**
+
+
+---
+
+## A17.06 · Understand the environmental impact
+
+- [ ] A17.06 Understand the environmental impact
+
+> [!tip] Hint
+> Energy and water for training and inference, and how to estimate them.
+
+**My notes:**
+
+
+---
+
+## A17.07 · Discover AI safety and alignment
+
+- [ ] A17.07 Discover AI safety and alignment
+
+> [!tip] Hint
+> Why it's hard to guarantee that a model does what we want. Read publications from labs and AI safety institutes.
+
+**My notes:**
+
+
+---
+
+## A17.08 · Understand the impact on work
+
+- [ ] A17.08 Understand the impact on work
+
+> [!tip] Hint
+> Which jobs are being transformed, and how to position yourself.
+
+**My notes:**
+
+
+---
+
+## A17.09 · Write your personal position
+
+- [ ] A17.09 Write your personal position
+
+> [!tip] Hint
+> One page in your notebook: opportunities, risks, and what you think.
+
+**My notes:**
 
 
 ---

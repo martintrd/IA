@@ -1,118 +1,118 @@
 ---
 module: A04
-tags: [ia, carnet]
+tags: [ai, notebook]
 ---
 
-# A04 · Les maths essentielles
+# A04 · Essential Math
 
-> Le minimum nécessaire pour comprendre vraiment ce qui se passe. Peut se faire en parallèle des modules A05 à A07.
+> The minimum you need to really understand what's going on. Can be done alongside modules A05 to A07.
 
-[[00 Accueil|← Retour à l'accueil]] · [[Glossaire]] · [[Ressources]]
+[[00 Home|← Back to home]] · [[Glossary]] · [[Resources]]
 
-## A04.01 · Vecteurs et produit scalaire
+## A04.01 · Vectors and the dot product
 
-- [ ] A04.01 Vecteurs et produit scalaire
+- [ ] A04.01 Vectors and the dot product
 
-> [!tip] Piste
-> La base de la notion de similarité. Série « Essence of Linear Algebra » de 3Blue1Brown.
+> [!tip] Hint
+> The foundation of the idea of similarity. 3Blue1Brown's "Essence of Linear Algebra" series.
 
-**Mes notes :**
-
-
----
-
-## A04.02 · Matrices et multiplication matricielle
-
-- [ ] A04.02 Matrices et multiplication matricielle
-
-> [!tip] Piste
-> Une couche de réseau de neurones est une multiplication de matrices suivie d'une fonction.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A04.03 · Dérivées et règle de la chaîne
+## A04.02 · Matrices and matrix multiplication
 
-- [ ] A04.03 Dérivées et règle de la chaîne
+- [ ] A04.02 Matrices and matrix multiplication
 
-> [!tip] Piste
-> La règle de la chaîne, c'est exactement la rétropropagation.
+> [!tip] Hint
+> A neural network layer is a matrix multiplication followed by a function.
 
-**Mes notes :**
-
-
----
-
-## A04.04 · Gradient et descente de gradient
-
-- [ ] A04.04 Gradient et descente de gradient
-
-> [!tip] Piste
-> Descendre la pente d'une fonction d'erreur, pas à pas. Code-la à la main sur y = (x - 3)².
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A04.05 · Probabilités de base
+## A04.03 · Derivatives and the chain rule
 
-- [ ] A04.05 Probabilités de base
+- [ ] A04.03 Derivatives and the chain rule
 
-> [!tip] Piste
-> Probabilité conditionnelle, théorème de Bayes, distributions.
+> [!tip] Hint
+> The chain rule is exactly what backpropagation is.
 
-**Mes notes :**
-
-
----
-
-## A04.06 · Statistiques descriptives
-
-- [ ] A04.06 Statistiques descriptives
-
-> [!tip] Piste
-> Moyenne, variance, écart-type, corrélation : savoir décrire un jeu de données.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A04.07 · Fonctions softmax, sigmoïde et logarithme
+## A04.04 · Gradient and gradient descent
 
-- [ ] A04.07 Fonctions softmax, sigmoïde et logarithme
+- [ ] A04.04 Gradient and gradient descent
 
-> [!tip] Piste
-> Transformer des scores en probabilités, et pourquoi on utilise le log-vraisemblance.
+> [!tip] Hint
+> Going down the slope of an error function, step by step. Code it by hand on y = (x - 3)².
 
-**Mes notes :**
-
-
----
-
-## A04.08 · Entropie croisée
-
-- [ ] A04.08 Entropie croisée
-
-> [!tip] Piste
-> La fonction de perte des modèles de classification et des LLM.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A04.09 · Suivre le cours Mathematics for Machine Learning
+## A04.05 · Probability basics
 
-- [ ] A04.09 Suivre le cours Mathematics for Machine Learning
+- [ ] A04.05 Probability basics
 
-> [!tip] Piste
-> Imperial College sur Coursera, ou le livre gratuit du même nom.
+> [!tip] Hint
+> Conditional probability, Bayes' theorem, distributions.
 
-**Mes notes :**
+**My notes:**
+
+
+---
+
+## A04.06 · Descriptive statistics
+
+- [ ] A04.06 Descriptive statistics
+
+> [!tip] Hint
+> Mean, variance, standard deviation, correlation: knowing how to describe a dataset.
+
+**My notes:**
+
+
+---
+
+## A04.07 · Softmax, sigmoid and logarithm functions
+
+- [ ] A04.07 Softmax, sigmoid and logarithm functions
+
+> [!tip] Hint
+> Turning scores into probabilities, and why we use log-likelihood.
+
+**My notes:**
+
+
+---
+
+## A04.08 · Cross-entropy
+
+- [ ] A04.08 Cross-entropy
+
+> [!tip] Hint
+> The loss function of classification models and LLMs.
+
+**My notes:**
+
+
+---
+
+## A04.09 · Take the Mathematics for Machine Learning course
+
+- [ ] A04.09 Take the Mathematics for Machine Learning course
+
+> [!tip] Hint
+> Imperial College on Coursera, or the free book of the same name.
+
+**My notes:**
 
 
 ---

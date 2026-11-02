@@ -1,154 +1,154 @@
 ---
 module: A16
-tags: [ia, carnet]
+tags: [ai, notebook]
 ---
 
-# A16 · IA et cybersécurité
+# A16 · AI and Cybersecurity
 
-> Le module qui valorise directement ton profil d'analyste SOC.
+> The module that directly boosts your SOC analyst profile.
 
-[[00 Accueil|← Retour à l'accueil]] · [[Glossaire]] · [[Ressources]]
+[[00 Home|← Back to home]] · [[Glossary]] · [[Resources]]
 
-## A16.01 · Lire l'OWASP Top 10 for LLM Applications
+## A16.01 · Read the OWASP Top 10 for LLM Applications
 
-- [ ] A16.01 Lire l'OWASP Top 10 for LLM Applications
+- [ ] A16.01 Read the OWASP Top 10 for LLM Applications
 
-> [!tip] Piste
-> La liste de référence des risques propres aux applications d'IA.
+> [!tip] Hint
+> The reference list of risks specific to AI applications.
 
-**Mes notes :**
-
-
----
-
-## A16.02 · Comprendre l'injection de prompt
-
-- [ ] A16.02 Comprendre l'injection de prompt
-
-> [!tip] Piste
-> Directe et indirecte : pourquoi un document lu par un agent peut détourner ses instructions.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A16.03 · Étudier les défenses contre l'injection de prompt
+## A16.02 · Understand prompt injection
 
-- [ ] A16.03 Étudier les défenses contre l'injection de prompt
+- [ ] A16.02 Understand prompt injection
 
-> [!tip] Piste
-> Séparation des données et des instructions, privilèges minimaux, validation humaine, filtrage.
+> [!tip] Hint
+> Direct and indirect: why a document read by an agent can hijack its instructions.
 
-**Mes notes :**
-
-
----
-
-## A16.04 · Explorer MITRE ATLAS
-
-- [ ] A16.04 Explorer MITRE ATLAS
-
-> [!tip] Piste
-> L'équivalent d'ATT&CK pour les menaces visant les systèmes d'IA.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A16.05 · Comprendre les risques de la chaîne d'approvisionnement
+## A16.03 · Study defenses against prompt injection
 
-- [ ] A16.05 Comprendre les risques de la chaîne d'approvisionnement
+- [ ] A16.03 Study defenses against prompt injection
 
-> [!tip] Piste
-> Modèles et jeux de données tiers, formats de fichiers dangereux, et pourquoi préférer `safetensors`.
+> [!tip] Hint
+> Separating data from instructions, least privilege, human approval, filtering.
 
-**Mes notes :**
-
-
----
-
-## A16.06 · Comprendre l'empoisonnement de données
-
-- [ ] A16.06 Comprendre l'empoisonnement de données
-
-> [!tip] Piste
-> Comment des données d'entraînement manipulées faussent un modèle, et comment s'en protéger.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A16.07 · Comprendre les fuites de données par les modèles
+## A16.04 · Explore MITRE ATLAS
 
-- [ ] A16.07 Comprendre les fuites de données par les modèles
+- [ ] A16.04 Explore MITRE ATLAS
 
-> [!tip] Piste
-> Mémorisation de données d'entraînement, fuite du prompt système, données collées par les employés.
+> [!tip] Hint
+> The ATT&CK equivalent for threats targeting AI systems.
 
-**Mes notes :**
-
-
----
-
-## A16.08 · Lire le guide de l'ANSSI sur l'IA générative
-
-- [ ] A16.08 Lire le guide de l'ANSSI sur l'IA générative
-
-> [!tip] Piste
-> Recommandations de sécurité pour un système d'IA générative.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A16.09 · Utiliser l'IA dans le SOC
+## A16.05 · Understand supply chain risks
 
-- [ ] A16.09 Utiliser l'IA dans le SOC
+- [ ] A16.05 Understand supply chain risks
 
-> [!tip] Piste
-> Résumé d'alertes, enrichissement, aide à l'écriture de règles de détection, rédaction de rapports.
+> [!tip] Hint
+> Third-party models and datasets, dangerous file formats, and why to prefer `safetensors`.
 
-**Mes notes :**
-
-
----
-
-## A16.10 · Construire un classifieur d'e-mails de phishing
-
-- [ ] A16.10 Construire un classifieur d'e-mails de phishing
-
-> [!tip] Piste
-> Projet de bout en bout sur un jeu de données public, avec des métriques de précision et de rappel.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A16.11 · Détecter les usages d'IA non autorisés
+## A16.06 · Understand data poisoning
 
-- [ ] A16.11 Détecter les usages d'IA non autorisés
+- [ ] A16.06 Understand data poisoning
 
-> [!tip] Piste
-> Shadow AI : repérer dans les journaux les appels à des services d'IA non approuvés.
+> [!tip] Hint
+> How manipulated training data skews a model, and how to protect against it.
 
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A16.12 · Rédiger une politique d'usage de l'IA
+## A16.07 · Understand data leaks through models
 
-- [ ] A16.12 Rédiger une politique d'usage de l'IA
+- [ ] A16.07 Understand data leaks through models
 
-> [!tip] Piste
-> Ce qui est permis, interdit, et à valider, pour une équipe.
+> [!tip] Hint
+> Memorization of training data, system prompt leakage, data pasted in by employees.
 
-**Mes notes :**
+**My notes:**
+
+
+---
+
+## A16.08 · Read the ANSSI guide on generative AI
+
+- [ ] A16.08 Read the ANSSI guide on generative AI
+
+> [!tip] Hint
+> Security recommendations for a generative AI system.
+
+**My notes:**
+
+
+---
+
+## A16.09 · Use AI in the SOC
+
+- [ ] A16.09 Use AI in the SOC
+
+> [!tip] Hint
+> Alert summaries, enrichment, help writing detection rules, report writing.
+
+**My notes:**
+
+
+---
+
+## A16.10 · Build a phishing email classifier
+
+- [ ] A16.10 Build a phishing email classifier
+
+> [!tip] Hint
+> An end-to-end project on a public dataset, with precision and recall metrics.
+
+**My notes:**
+
+
+---
+
+## A16.11 · Detect unauthorized AI use
+
+- [ ] A16.11 Detect unauthorized AI use
+
+> [!tip] Hint
+> Shadow AI: spot calls to unapproved AI services in the logs.
+
+**My notes:**
+
+
+---
+
+## A16.12 · Write an AI usage policy
+
+- [ ] A16.12 Write an AI usage policy
+
+> [!tip] Hint
+> What is allowed, forbidden and subject to approval, for a team.
+
+**My notes:**
 
 
 ---

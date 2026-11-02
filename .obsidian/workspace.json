@@ -11,14 +11,10 @@
             "id": "54849cff2f4b3ab8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Modules/A01 Culture générale de l'IA.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "A01 Culture générale de l'IA"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -187,17 +183,36 @@
   },
   "active": "54849cff2f4b3ab8",
   "lastOpenFiles": [
+    "Projects/Read Me.md",
+    "Projects",
+    "Readings/Read Me.md",
+    "Readings",
+    "Projets/Read Me.md",
+    "Lectures/Read Me.md",
+    "AI Watch.md",
+    "Resources.md",
+    "Project Template.md",
+    "Modules/A18 Veille, projets et carrière.md",
+    "Glossary.md",
+    "00 Home.md",
+    "Modules/A18 Tech Watch, Projects and Career.md",
+    "Modules/A17 Ethics, Law and Society.md",
+    "Modules/A16 AI and Cybersecurity.md",
+    "Modules/A15 Production and MLOps.md",
+    "Modules/A14 Multimodal and Generative AI.md",
+    "Modules/A13 Local and Open Source AI.md",
+    "Modules/A12 Agents and Automation.md",
+    "Modules/A11 RAG and Semantic Search.md",
+    "Modules/A10 Building with APIs.md",
+    "Modules/A09 Large Language Models.md",
+    "Modules/A08 Language and Transformer Architecture.md",
+    "Modules/A07 Deep Learning.md",
+    "Modules/A06 Classical Machine Learning.md",
+    "Modules/A05 Python for Data.md",
+    "Modules/A04 Essential Math.md",
+    "Modules/A01 Culture générale de l'IA.md",
     "Pasted image 20261102024504.png",
     "Pasted image 20261102024450.png",
-    "Modules/A18 Veille, projets et carrière.md",
-    "00 Accueil.md",
-    "Modèle de projet.md",
-    "README.md",
-    "Modules/A01 Culture générale de l'IA.md",
-    "Modules/A00 Préparer son environnement.md",
-    "Glossaire.md",
-    "Veille IA.md",
-    "Modules/A02 Utiliser les assistants IA au quotidien.md",
     "sedDSqci6"
   ]
 }

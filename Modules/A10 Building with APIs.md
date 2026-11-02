@@ -1,130 +1,130 @@
 ---
 module: A10
-tags: [ia, carnet]
+tags: [ai, notebook]
 ---
 
-# A10 · Construire avec les API
+# A10 · Building with APIs
 
-> Passer d'utilisateur à développeur.
+> Move from user to developer.
 
-[[00 Accueil|← Retour à l'accueil]] · [[Glossaire]] · [[Ressources]]
+[[00 Home|← Back to home]] · [[Glossary]] · [[Resources]]
 
-## A10.01 · Faire ton premier appel d'API
+## A10.01 · Make your first API call
 
-- [ ] A10.01 Faire ton premier appel d'API
+- [ ] A10.01 Make your first API call
 
-> [!tip] Piste
-> Un script Python qui envoie un message et affiche la réponse. Clé dans une variable d'environnement.
+> [!tip] Hint
+> A Python script that sends a message and prints the response. Key stored in an environment variable.
 
-**Mes notes :**
-
-
----
-
-## A10.02 · Gérer une conversation multi-tours
-
-- [ ] A10.02 Gérer une conversation multi-tours
-
-> [!tip] Piste
-> Comprendre que l'API est sans mémoire : c'est toi qui renvoies l'historique.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A10.03 · Utiliser le streaming
+## A10.02 · Handle a multi-turn conversation
 
-- [ ] A10.03 Utiliser le streaming
+- [ ] A10.02 Handle a multi-turn conversation
 
-> [!tip] Piste
-> Afficher la réponse au fur et à mesure qu'elle est générée.
+> [!tip] Hint
+> Understand that the API has no memory: you're the one who sends the history back.
 
-**Mes notes :**
-
-
----
-
-## A10.04 · Utiliser l'appel d'outils (function calling)
-
-- [ ] A10.04 Utiliser l'appel d'outils (function calling)
-
-> [!tip] Piste
-> Le modèle décide d'appeler ta fonction Python, tu exécutes, tu lui renvoies le résultat.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A10.05 · Obtenir des sorties structurées et validées
+## A10.03 · Use streaming
 
-- [ ] A10.05 Obtenir des sorties structurées et validées
+- [ ] A10.03 Use streaming
 
-> [!tip] Piste
-> JSON Schema ou Pydantic pour garantir le format.
+> [!tip] Hint
+> Display the response as it is being generated.
 
-**Mes notes :**
-
-
----
-
-## A10.06 · Envoyer des images et des documents
-
-- [ ] A10.06 Envoyer des images et des documents
-
-> [!tip] Piste
-> Faire analyser une capture d'écran ou un PDF par l'API.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A10.07 · Maîtriser coûts et latence
+## A10.04 · Use tool calling (function calling)
 
-- [ ] A10.07 Maîtriser coûts et latence
+- [ ] A10.04 Use tool calling (function calling)
 
-> [!tip] Piste
-> Compter les tokens, choisir le bon modèle pour chaque tâche, utiliser le cache de prompt.
+> [!tip] Hint
+> The model decides to call your Python function, you run it, you send it the result.
 
-**Mes notes :**
-
-
----
-
-## A10.08 · Gérer erreurs, quotas et nouvelles tentatives
-
-- [ ] A10.08 Gérer erreurs, quotas et nouvelles tentatives
-
-> [!tip] Piste
-> Codes d'erreur, limites de débit, attente exponentielle.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A10.09 · Projet : un outil d'aide au triage d'alertes
+## A10.05 · Get structured, validated output
 
-- [ ] A10.09 Projet : un outil d'aide au triage d'alertes
+- [ ] A10.05 Get structured, validated output
 
-> [!tip] Piste
-> À partir d'une alerte anonymisée en JSON, l'outil produit un résumé, une gravité et des étapes de vérification.
+> [!tip] Hint
+> JSON Schema or Pydantic to guarantee the format.
 
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A10.10 · Construire une interface avec Streamlit ou Gradio
+## A10.06 · Send images and documents
 
-- [ ] A10.10 Construire une interface avec Streamlit ou Gradio
+- [ ] A10.06 Send images and documents
 
-> [!tip] Piste
-> Rendre ton outil utilisable par un collègue en quelques lignes.
+> [!tip] Hint
+> Have a screenshot or a PDF analyzed through the API.
 
-**Mes notes :**
+**My notes:**
+
+
+---
+
+## A10.07 · Control costs and latency
+
+- [ ] A10.07 Control costs and latency
+
+> [!tip] Hint
+> Count tokens, pick the right model for each task, use prompt caching.
+
+**My notes:**
+
+
+---
+
+## A10.08 · Handle errors, quotas and retries
+
+- [ ] A10.08 Handle errors, quotas and retries
+
+> [!tip] Hint
+> Error codes, rate limits, exponential backoff.
+
+**My notes:**
+
+
+---
+
+## A10.09 · Project: an alert triage assistant tool
+
+- [ ] A10.09 Project: an alert triage assistant tool
+
+> [!tip] Hint
+> From an anonymized alert in JSON, the tool produces a summary, a severity and verification steps.
+
+**My notes:**
+
+
+---
+
+## A10.10 · Build an interface with Streamlit or Gradio
+
+- [ ] A10.10 Build an interface with Streamlit or Gradio
+
+> [!tip] Hint
+> Make your tool usable by a colleague in a few lines.
+
+**My notes:**
 
 
 ---

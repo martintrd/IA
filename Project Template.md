@@ -1,38 +1,38 @@
 ---
-tags: [ia, projet]
-statut: en cours
+tags: [ai, project]
+status: in progress
 ---
 
-# Projet : <nom>
+# Project: <name>
 
-## Problème
-- **Ce que je veux résoudre :** 
-- **Pour qui :** 
-- **Comment je saurai que ça marche (métrique) :** 
+## Problem
+- **What I want to solve:**
+- **For whom:**
+- **How I'll know it works (metric):**
 
-## Approche
-- [ ] Prompt seul
+## Approach
+- [ ] Prompt only
 - [ ] RAG
-- [ ] Agent avec outils
-- [ ] Modèle de machine learning classique
+- [ ] Agent with tools
+- [ ] Classical machine learning model
 - [ ] Fine-tuning
 
-Pourquoi ce choix : 
+Why this choice:
 
-## Données
-- Source : 
-- Contient des données sensibles ? 
-- Nettoyage effectué : 
+## Data
+- Source:
+- Contains sensitive data?
+- Cleaning done:
 
-## Journal d'expériences
-| Date | Changement | Résultat sur le jeu de tests | Coût |
+## Experiment log
+| Date | Change | Test set result | Cost |
 |---|---|---|---|
 |  |  |  |  |
 
-## Résultats
+## Results
 
-## Ce que j'ai appris
+## What I learned
 
-## Liens
-- Dépôt GitHub : 
-- Démo : 
+## Links
+- GitHub repository:
+- Demo:

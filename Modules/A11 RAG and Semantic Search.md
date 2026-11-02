@@ -1,130 +1,130 @@
 ---
 module: A11
-tags: [ia, carnet]
+tags: [ai, notebook]
 ---
 
-# A11 · RAG et recherche sémantique
+# A11 · RAG and Semantic Search
 
-> Faire répondre un modèle à partir de tes propres documents.
+> Make a model answer from your own documents.
 
-[[00 Accueil|← Retour à l'accueil]] · [[Glossaire]] · [[Ressources]]
+[[00 Home|← Back to home]] · [[Glossary]] · [[Resources]]
 
-## A11.01 · Comprendre le principe du RAG
+## A11.01 · Understand the principle of RAG
 
-- [ ] A11.01 Comprendre le principe du RAG
+- [ ] A11.01 Understand the principle of RAG
 
-> [!tip] Piste
-> Retrieval-Augmented Generation : chercher les bons passages, puis les donner au modèle.
+> [!tip] Hint
+> Retrieval-Augmented Generation: find the right passages, then give them to the model.
 
-**Mes notes :**
-
-
----
-
-## A11.02 · Générer des embeddings
-
-- [ ] A11.02 Générer des embeddings
-
-> [!tip] Piste
-> Transformer des textes en vecteurs avec un modèle d'embeddings.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A11.03 · Mesurer la similarité cosinus
+## A11.02 · Generate embeddings
 
-- [ ] A11.03 Mesurer la similarité cosinus
+- [ ] A11.02 Generate embeddings
 
-> [!tip] Piste
-> Retrouver à la main les textes les plus proches d'une question.
+> [!tip] Hint
+> Turn texts into vectors with an embedding model.
 
-**Mes notes :**
-
-
----
-
-## A11.04 · Découper des documents
-
-- [ ] A11.04 Découper des documents
-
-> [!tip] Piste
-> Stratégies de découpage, taille des morceaux, chevauchement, et leur effet sur la qualité.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A11.05 · Utiliser une base vectorielle
+## A11.03 · Measure cosine similarity
 
-- [ ] A11.05 Utiliser une base vectorielle
+- [ ] A11.03 Measure cosine similarity
 
-> [!tip] Piste
-> Chroma, Qdrant ou pgvector : stocker et interroger des embeddings.
+> [!tip] Hint
+> Find the texts closest to a question by hand.
 
-**Mes notes :**
-
-
----
-
-## A11.06 · Combiner recherche par mots-clés et sémantique
-
-- [ ] A11.06 Combiner recherche par mots-clés et sémantique
-
-> [!tip] Piste
-> Recherche hybride (BM25 + vecteurs) et reclassement des résultats.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A11.07 · Citer les sources dans la réponse
+## A11.04 · Split documents
 
-- [ ] A11.07 Citer les sources dans la réponse
+- [ ] A11.04 Split documents
 
-> [!tip] Piste
-> Chaque affirmation renvoie au passage d'origine.
+> [!tip] Hint
+> Chunking strategies, chunk size, overlap, and their effect on quality.
 
-**Mes notes :**
-
-
----
-
-## A11.08 · Évaluer un système RAG
-
-- [ ] A11.08 Évaluer un système RAG
-
-> [!tip] Piste
-> La bonne information a-t-elle été retrouvée ? La réponse y est-elle fidèle ?
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A11.09 · Découvrir LlamaIndex ou LangChain
+## A11.05 · Use a vector database
 
-- [ ] A11.09 Découvrir LlamaIndex ou LangChain
+- [ ] A11.05 Use a vector database
 
-> [!tip] Piste
-> Les frameworks courants, et quand il vaut mieux s'en passer.
+> [!tip] Hint
+> Chroma, Qdrant or pgvector: store and query embeddings.
 
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A11.10 · Projet : un assistant sur tes procédures SOC
+## A11.06 · Combine keyword and semantic search
 
-- [ ] A11.10 Projet : un assistant sur tes procédures SOC
+- [ ] A11.06 Combine keyword and semantic search
 
-> [!tip] Piste
-> RAG sur tes notes Obsidian ou des procédures publiques, avec citations.
+> [!tip] Hint
+> Hybrid search (BM25 + vectors) and reranking of results.
 
-**Mes notes :**
+**My notes:**
+
+
+---
+
+## A11.07 · Cite sources in the answer
+
+- [ ] A11.07 Cite sources in the answer
+
+> [!tip] Hint
+> Each claim points back to its original passage.
+
+**My notes:**
+
+
+---
+
+## A11.08 · Evaluate a RAG system
+
+- [ ] A11.08 Evaluate a RAG system
+
+> [!tip] Hint
+> Was the right information retrieved? Is the answer faithful to it?
+
+**My notes:**
+
+
+---
+
+## A11.09 · Discover LlamaIndex or LangChain
+
+- [ ] A11.09 Discover LlamaIndex or LangChain
+
+> [!tip] Hint
+> The common frameworks, and when you're better off without them.
+
+**My notes:**
+
+
+---
+
+## A11.10 · Project: an assistant for your SOC procedures
+
+- [ ] A11.10 Project: an assistant for your SOC procedures
+
+> [!tip] Hint
+> RAG over your Obsidian notes or public procedures, with citations.
+
+**My notes:**
 
 
 ---

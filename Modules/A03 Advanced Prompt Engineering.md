@@ -1,106 +1,106 @@
 ---
 module: A03
-tags: [ia, carnet]
+tags: [ai, notebook]
 ---
 
-# A03 · Prompt engineering avancé
+# A03 · Advanced Prompt Engineering
 
-> Obtenir des résultats fiables et reproductibles.
+> Get reliable, reproducible results.
 
-[[00 Accueil|← Retour à l'accueil]] · [[Glossaire]] · [[Ressources]]
+[[00 Home|← Back to home]] · [[Glossary]] · [[Resources]]
 
-## A03.01 · Structurer un long prompt avec des balises
+## A03.01 · Structure a long prompt with tags
 
-- [ ] A03.01 Structurer un long prompt avec des balises
+- [ ] A03.01 Structure a long prompt with tags
 
-> [!tip] Piste
-> Sépare instructions, contexte et données, par exemple avec des balises XML ou des titres.
+> [!tip] Hint
+> Separate instructions, context and data, for example with XML tags or headings.
 
-**Mes notes :**
-
-
----
-
-## A03.02 · Utiliser un prompt système
-
-- [ ] A03.02 Utiliser un prompt système
-
-> [!tip] Piste
-> Rôle, règles, ton et limites, distincts du message de l'utilisateur.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A03.03 · Demander un raisonnement étape par étape
+## A03.02 · Use a system prompt
 
-- [ ] A03.03 Demander un raisonnement étape par étape
+- [ ] A03.02 Use a system prompt
 
-> [!tip] Piste
-> Comparer la qualité d'une réponse directe et d'une réponse après réflexion.
+> [!tip] Hint
+> Role, rules, tone and limits, kept separate from the user's message.
 
-**Mes notes :**
-
-
----
-
-## A03.04 · Obtenir une sortie structurée
-
-- [ ] A03.04 Obtenir une sortie structurée
-
-> [!tip] Piste
-> Exiger un JSON précis et le valider automatiquement.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A03.05 · Enchaîner les prompts
+## A03.03 · Ask for step-by-step reasoning
 
-- [ ] A03.05 Enchaîner les prompts
+- [ ] A03.03 Ask for step-by-step reasoning
 
-> [!tip] Piste
-> Découper une tâche complexe en étapes : extraire, puis analyser, puis rédiger.
+> [!tip] Hint
+> Compare the quality of a direct answer and an answer given after reflection.
 
-**Mes notes :**
-
-
----
-
-## A03.06 · Construire un jeu de tests pour un prompt
-
-- [ ] A03.06 Construire un jeu de tests pour un prompt
-
-> [!tip] Piste
-> 10 entrées représentatives avec le résultat attendu, rejouées à chaque modification.
-
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A03.07 · Lire la documentation officielle de prompt engineering
+## A03.04 · Get structured output
 
-- [ ] A03.07 Lire la documentation officielle de prompt engineering
+- [ ] A03.04 Get structured output
 
-> [!tip] Piste
-> Les guides des fournisseurs d'API sont gratuits et très concrets.
+> [!tip] Hint
+> Require a precise JSON format and validate it automatically.
 
-**Mes notes :**
+**My notes:**
 
 
 ---
 
-## A03.08 · Créer ta bibliothèque de prompts
+## A03.05 · Chain prompts
 
-- [ ] A03.08 Créer ta bibliothèque de prompts
+- [ ] A03.05 Chain prompts
 
-> [!tip] Piste
-> Une note Obsidian par prompt réutilisable, avec ses versions et ses résultats.
+> [!tip] Hint
+> Break a complex task into steps: extract, then analyze, then write.
 
-**Mes notes :**
+**My notes:**
+
+
+---
+
+## A03.06 · Build a test set for a prompt
+
+- [ ] A03.06 Build a test set for a prompt
+
+> [!tip] Hint
+> 10 representative inputs with the expected result, replayed after every change.
+
+**My notes:**
+
+
+---
+
+## A03.07 · Read the official prompt engineering documentation
+
+- [ ] A03.07 Read the official prompt engineering documentation
+
+> [!tip] Hint
+> API providers' guides are free and very concrete.
+
+**My notes:**
+
+
+---
+
+## A03.08 · Create your prompt library
+
+- [ ] A03.08 Create your prompt library
+
+> [!tip] Hint
+> One Obsidian note per reusable prompt, with its versions and results.
+
+**My notes:**
 
 
 ---
