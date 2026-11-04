@@ -11,10 +11,14 @@
             "id": "54849cff2f4b3ab8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Modules/A01 AI General Knowledge.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "A01 AI General Knowledge"
             }
           }
         ]
@@ -183,6 +187,10 @@
   },
   "active": "54849cff2f4b3ab8",
   "lastOpenFiles": [
+    "Modules/A00 Set Up Your Environment.md",
+    "00 Home.md",
+    "Modules/A01 AI General Knowledge.md",
+    "Modules/A02 Using AI Assistants Every Day.md",
     "Projects/Read Me.md",
     "Projects",
     "Readings/Read Me.md",
@@ -194,7 +202,6 @@
     "Project Template.md",
     "Modules/A18 Veille, projets et carrière.md",
     "Glossary.md",
-    "00 Home.md",
     "Modules/A18 Tech Watch, Projects and Career.md",
     "Modules/A17 Ethics, Law and Society.md",
     "Modules/A16 AI and Cybersecurity.md",
@@ -208,9 +215,6 @@
     "Modules/A08 Language and Transformer Architecture.md",
     "Modules/A07 Deep Learning.md",
     "Modules/A06 Classical Machine Learning.md",
-    "Modules/A05 Python for Data.md",
-    "Modules/A04 Essential Math.md",
-    "Modules/A01 Culture générale de l'IA.md",
     "Pasted image 20261102024504.png",
     "Pasted image 20261102024450.png",
     "sedDSqci6"

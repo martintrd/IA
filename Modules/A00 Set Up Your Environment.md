@@ -77,7 +77,7 @@ git push -u origin main
 
 ## A00.06 · Open a developer account with an AI API provider
 
-- [ ] A00.06 Open a developer account with an AI API provider
+- [x] A00.06 Open a developer account with an AI API provider
 
 > [!tip] Hint
 > You'll need it from module A10 onward. Set a spending limit right away.
